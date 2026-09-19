@@ -56,8 +56,8 @@ Python 3.10+ · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupy
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/Adikesh59/Quick-Commerce-Analytics-with-AI.git
+cd Quick-Commerce-Analytics-with-AI
 
 # 2. (Optional) create a virtual environment
 python -m venv venv
@@ -68,7 +68,7 @@ venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 
 # 4. Open the notebook and run all cells
-jupyter notebook YourName_QuickCommerceAnalytics.ipynb
+jupyter notebook KeshavKumar_QuickCommerceAnalytics.ipynb
 ```
 
 Run time is under two minutes. The notebook creates the `data/` and `charts/` folders automatically.
