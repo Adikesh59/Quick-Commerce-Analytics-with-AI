@@ -4,7 +4,7 @@
 
 An end-to-end data analytics and machine-learning project on a Blinkit-style quick-commerce business: what sells, who the valuable customers are, why deliveries run late, and how many orders to expect tomorrow.
 
-> **Author:** [Keshav Kumar]  · **GitHub:** [repository link]
+> **Author:** [Keshav Kumar]  · **GitHub:** https://github.com/Adikesh59/Quick-Commerce-Analytics-with-AI.git
 
 ---
 
