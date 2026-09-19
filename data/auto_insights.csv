@@ -1,0 +1,11 @@
+insight
+REVENUE MIX: 'Electronics & Accessories' and 'Fruits & Vegetables' lead revenue with 18% and 11% of sales; top-3 categories together contribute 40%.
+"BASKET VALUE: 'Electronics & Accessories' has the highest AOV (₹1,077) vs. 'Dairy & Bread' (₹183) – cross-sell high-AOV items into low-AOV baskets."
+"DEMAND PEAKS: busiest hours are 19:00, 20:00, 21:00; peak windows (8-9 am, 7-9 pm) handle 39% of orders and run a 23.8% late rate vs 13.5% off-peak."
+CITY RELIABILITY: best on-time city is Pune (90.7%); weakest is Bengaluru (74.3%).
+WEATHER: rain lifts the late-delivery rate from 13.3% to 32.7% (2.5x) – add rider buffer & surge ETA on rainy days.
+"DELAY COST: late orders get an average rating of 4.31 vs 4.66 on-time, and refund requests jump from 1.5% to 2.6%."
+MEMBERSHIP: members place 15.6 orders/customer vs 9.9 for non-members.
+"DISCOUNTS: discount % vs basket size correlation is +0.00; ₹608,165 (5.3% of gross sales) was given away without lifting basket value."
+"CUSTOMERS: 25% of customers (Champions) generate 62% of revenue; 731 fading regulars hold ₹1,790,301 of historical spend and should be re-engaged now."
+"AI READINESS: the late-delivery model reaches ROC-AUC 0.91; main drivers are distance_km, prep_time_min, is_raining."

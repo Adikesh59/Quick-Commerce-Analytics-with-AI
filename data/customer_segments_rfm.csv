@@ -1,0 +1,2684 @@
+customer_id,recency,frequency,monetary,cluster,segment
+C00002,141,19,7720.7699999999995,3,At-Risk (Fading Regulars)
+C00003,196,5,2241.54,3,At-Risk (Fading Regulars)
+C00004,4,36,10077.31,2,Champions
+C00005,249,3,1546.78,3,At-Risk (Fading Regulars)
+C00006,9,13,6533.21,2,Champions
+C00007,79,7,1925.73,3,At-Risk (Fading Regulars)
+C00008,277,3,556.84,1,Lapsed / Low-Value
+C00009,4,7,1847.16,0,Active Regulars
+C00010,251,6,1248.06,3,At-Risk (Fading Regulars)
+C00011,354,1,406.2,1,Lapsed / Low-Value
+C00012,13,14,3886.5099999999998,0,Active Regulars
+C00013,62,48,15623.42,2,Champions
+C00014,14,4,936.49,0,Active Regulars
+C00015,15,10,5139.5,0,Active Regulars
+C00016,228,9,2796.48,3,At-Risk (Fading Regulars)
+C00017,36,9,2700.6,0,Active Regulars
+C00018,9,20,4750.42,2,Champions
+C00019,207,5,1286.21,3,At-Risk (Fading Regulars)
+C00021,24,2,293.94,1,Lapsed / Low-Value
+C00022,122,3,595.6899999999999,1,Lapsed / Low-Value
+C00023,196,1,163.38,1,Lapsed / Low-Value
+C00024,24,9,2821.16,0,Active Regulars
+C00027,53,5,1110.19,3,At-Risk (Fading Regulars)
+C00028,4,41,14216.15,2,Champions
+C00029,35,6,957.11,3,At-Risk (Fading Regulars)
+C00030,194,5,989.81,3,At-Risk (Fading Regulars)
+C00031,4,25,8230.89,2,Champions
+C00033,3,55,15717.2,2,Champions
+C00034,256,2,1327.01,1,Lapsed / Low-Value
+C00035,5,5,1502.44,0,Active Regulars
+C00036,3,36,14424.67,2,Champions
+C00037,35,2,423.73,1,Lapsed / Low-Value
+C00038,2,68,24869.08,2,Champions
+C00039,6,44,15742.36,2,Champions
+C00040,19,4,1201.61,0,Active Regulars
+C00041,2,23,8247.0,2,Champions
+C00043,14,5,1507.25,0,Active Regulars
+C00044,3,13,2786.57,0,Active Regulars
+C00045,45,2,338.74,1,Lapsed / Low-Value
+C00046,17,5,1242.26,0,Active Regulars
+C00047,220,5,2395.49,3,At-Risk (Fading Regulars)
+C00048,6,41,14472.17,2,Champions
+C00049,8,56,20757.24,2,Champions
+C00050,27,7,3640.25,0,Active Regulars
+C00051,91,3,814.22,1,Lapsed / Low-Value
+C00052,9,17,5591.91,2,Champions
+C00053,206,8,4995.15,3,At-Risk (Fading Regulars)
+C00054,7,44,19315.079999999998,2,Champions
+C00055,1,47,21264.95,2,Champions
+C00056,180,3,1115.4099999999999,3,At-Risk (Fading Regulars)
+C00058,4,13,3563.43,0,Active Regulars
+C00059,16,6,2035.13,0,Active Regulars
+C00061,5,14,4209.67,0,Active Regulars
+C00063,331,4,2400.92,3,At-Risk (Fading Regulars)
+C00064,33,3,1503.5700000000002,3,At-Risk (Fading Regulars)
+C00065,70,13,4186.17,3,At-Risk (Fading Regulars)
+C00066,42,7,1915.65,3,At-Risk (Fading Regulars)
+C00067,129,8,2309.79,3,At-Risk (Fading Regulars)
+C00068,22,6,1713.52,0,Active Regulars
+C00069,105,4,1041.68,3,At-Risk (Fading Regulars)
+C00071,59,5,899.14,3,At-Risk (Fading Regulars)
+C00072,5,34,10861.97,2,Champions
+C00073,212,8,2331.76,3,At-Risk (Fading Regulars)
+C00074,45,4,825.9200000000001,3,At-Risk (Fading Regulars)
+C00075,133,6,4576.67,3,At-Risk (Fading Regulars)
+C00076,14,33,10525.39,2,Champions
+C00077,1,34,10083.43,2,Champions
+C00078,254,3,742.9300000000001,1,Lapsed / Low-Value
+C00079,1,41,13779.51,2,Champions
+C00080,5,19,5200.78,2,Champions
+C00081,9,23,6424.94,2,Champions
+C00083,243,2,942.03,1,Lapsed / Low-Value
+C00084,15,7,2775.02,0,Active Regulars
+C00085,218,4,873.27,3,At-Risk (Fading Regulars)
+C00086,4,7,1152.97,0,Active Regulars
+C00087,12,45,14701.94,2,Champions
+C00088,14,15,5564.19,2,Champions
+C00089,3,22,6970.16,2,Champions
+C00090,220,3,407.89,1,Lapsed / Low-Value
+C00091,303,1,592.52,1,Lapsed / Low-Value
+C00092,43,4,670.8,3,At-Risk (Fading Regulars)
+C00093,19,12,3843.46,0,Active Regulars
+C00095,221,3,765.17,1,Lapsed / Low-Value
+C00097,145,10,3898.2000000000003,3,At-Risk (Fading Regulars)
+C00098,20,3,290.32,1,Lapsed / Low-Value
+C00099,169,2,649.3199999999999,1,Lapsed / Low-Value
+C00100,2,29,11926.82,2,Champions
+C00101,65,5,953.22,3,At-Risk (Fading Regulars)
+C00102,12,11,3581.16,0,Active Regulars
+C00104,132,20,9075.03,3,At-Risk (Fading Regulars)
+C00105,87,6,2428.34,3,At-Risk (Fading Regulars)
+C00106,42,6,1278.26,3,At-Risk (Fading Regulars)
+C00107,9,12,3252.92,0,Active Regulars
+C00108,1,60,20623.64,2,Champions
+C00109,26,6,1647.8899999999999,0,Active Regulars
+C00110,77,24,5785.1,2,Champions
+C00111,27,8,3788.24,0,Active Regulars
+C00112,123,5,925.76,3,At-Risk (Fading Regulars)
+C00113,43,13,4738.71,0,Active Regulars
+C00114,2,55,20674.91,2,Champions
+C00115,25,22,6766.05,2,Champions
+C00116,41,13,3827.71,0,Active Regulars
+C00117,78,7,3190.85,3,At-Risk (Fading Regulars)
+C00118,14,17,6877.36,2,Champions
+C00119,217,6,3127.8599999999997,3,At-Risk (Fading Regulars)
+C00120,4,28,9787.44,2,Champions
+C00123,31,7,1614.51,0,Active Regulars
+C00124,7,3,529.1999999999999,0,Active Regulars
+C00125,233,4,913.57,3,At-Risk (Fading Regulars)
+C00126,6,26,7208.37,2,Champions
+C00127,19,15,5957.14,2,Champions
+C00128,38,1,217.78,1,Lapsed / Low-Value
+C00129,331,1,204.67,1,Lapsed / Low-Value
+C00130,126,8,1171.81,3,At-Risk (Fading Regulars)
+C00131,2,67,22737.82,2,Champions
+C00132,23,10,2123.7799999999997,0,Active Regulars
+C00133,4,17,4398.03,2,Champions
+C00134,2,23,7402.66,2,Champions
+C00135,60,6,2527.36,3,At-Risk (Fading Regulars)
+C00136,7,29,9259.84,2,Champions
+C00138,15,29,9613.44,2,Champions
+C00139,104,19,12851.51,2,Champions
+C00140,22,5,2956.2000000000003,0,Active Regulars
+C00141,218,2,760.58,1,Lapsed / Low-Value
+C00142,52,2,885.89,1,Lapsed / Low-Value
+C00144,186,4,895.98,3,At-Risk (Fading Regulars)
+C00145,214,3,713.65,1,Lapsed / Low-Value
+C00146,299,1,664.77,1,Lapsed / Low-Value
+C00147,53,1,129.19,1,Lapsed / Low-Value
+C00149,19,16,3163.52,0,Active Regulars
+C00150,16,3,698.91,0,Active Regulars
+C00151,50,3,2055.95,3,At-Risk (Fading Regulars)
+C00152,28,1,360.89,1,Lapsed / Low-Value
+C00153,38,29,15359.58,2,Champions
+C00154,216,2,330.03999999999996,1,Lapsed / Low-Value
+C00155,53,1,1403.53,1,Lapsed / Low-Value
+C00156,307,2,623.96,1,Lapsed / Low-Value
+C00157,108,9,1828.23,3,At-Risk (Fading Regulars)
+C00158,4,26,5453.04,2,Champions
+C00159,148,10,3699.98,3,At-Risk (Fading Regulars)
+C00161,61,2,356.83000000000004,1,Lapsed / Low-Value
+C00162,118,7,2501.11,3,At-Risk (Fading Regulars)
+C00163,173,1,616.9,1,Lapsed / Low-Value
+C00165,37,10,4127.06,0,Active Regulars
+C00166,121,4,1241.62,3,At-Risk (Fading Regulars)
+C00167,153,6,925.53,3,At-Risk (Fading Regulars)
+C00168,12,13,4787.01,0,Active Regulars
+C00169,21,5,1628.15,0,Active Regulars
+C00170,68,11,2385.99,3,At-Risk (Fading Regulars)
+C00171,29,5,2900.26,0,Active Regulars
+C00172,163,1,327.38,1,Lapsed / Low-Value
+C00174,9,19,6874.62,2,Champions
+C00175,154,6,1743.8999999999999,3,At-Risk (Fading Regulars)
+C00176,33,16,4439.25,0,Active Regulars
+C00177,38,2,504.51,1,Lapsed / Low-Value
+C00178,16,12,2596.19,0,Active Regulars
+C00179,12,7,4581.22,0,Active Regulars
+C00180,339,1,305.12,1,Lapsed / Low-Value
+C00181,18,18,4816.4,2,Champions
+C00182,13,30,11208.79,2,Champions
+C00183,10,25,5139.87,2,Champions
+C00184,287,2,168.42000000000002,1,Lapsed / Low-Value
+C00185,18,9,2542.16,0,Active Regulars
+C00186,135,4,1300.1399999999999,3,At-Risk (Fading Regulars)
+C00187,10,16,6271.87,2,Champions
+C00188,1,12,4551.79,2,Champions
+C00189,7,5,2385.22,0,Active Regulars
+C00190,333,1,169.28,1,Lapsed / Low-Value
+C00191,293,4,1153.28,3,At-Risk (Fading Regulars)
+C00192,2,25,11610.550000000001,2,Champions
+C00193,2,11,4254.66,0,Active Regulars
+C00194,320,3,1121.65,3,At-Risk (Fading Regulars)
+C00195,22,3,1139.91,0,Active Regulars
+C00196,281,1,310.25,1,Lapsed / Low-Value
+C00197,15,19,7706.04,2,Champions
+C00199,314,1,386.79,1,Lapsed / Low-Value
+C00200,149,4,768.0,1,Lapsed / Low-Value
+C00201,12,24,11299.22,2,Champions
+C00203,73,1,102.73,1,Lapsed / Low-Value
+C00204,2,61,25286.9,2,Champions
+C00205,1,7,2458.96,0,Active Regulars
+C00206,4,19,3856.98,2,Champions
+C00207,39,3,797.22,1,Lapsed / Low-Value
+C00208,250,3,590.69,1,Lapsed / Low-Value
+C00209,7,39,13133.51,2,Champions
+C00210,6,39,12534.130000000001,2,Champions
+C00211,74,34,11704.12,2,Champions
+C00212,14,5,2198.83,0,Active Regulars
+C00214,20,3,351.87,1,Lapsed / Low-Value
+C00215,1,10,3456.94,0,Active Regulars
+C00216,15,5,1822.38,0,Active Regulars
+C00217,76,6,1826.97,3,At-Risk (Fading Regulars)
+C00218,158,6,1422.2,3,At-Risk (Fading Regulars)
+C00219,1,14,5726.43,2,Champions
+C00220,6,17,7477.8,2,Champions
+C00221,87,9,3230.3399999999997,3,At-Risk (Fading Regulars)
+C00222,5,18,6288.85,2,Champions
+C00223,3,17,5462.04,2,Champions
+C00224,3,5,1808.42,0,Active Regulars
+C00225,17,5,1541.14,0,Active Regulars
+C00226,4,139,51189.28,2,Champions
+C00227,23,4,834.8299999999999,0,Active Regulars
+C00228,7,27,10737.72,2,Champions
+C00229,29,3,472.78,1,Lapsed / Low-Value
+C00230,15,15,3347.04,0,Active Regulars
+C00231,90,2,234.84,1,Lapsed / Low-Value
+C00232,31,6,2122.4700000000003,0,Active Regulars
+C00233,344,1,641.12,1,Lapsed / Low-Value
+C00234,284,2,825.72,1,Lapsed / Low-Value
+C00235,68,9,2845.01,3,At-Risk (Fading Regulars)
+C00236,302,2,850.39,1,Lapsed / Low-Value
+C00237,1,27,7118.76,2,Champions
+C00238,195,2,685.29,1,Lapsed / Low-Value
+C00239,73,8,1887.0,3,At-Risk (Fading Regulars)
+C00240,84,1,165.66,1,Lapsed / Low-Value
+C00241,11,9,4657.13,0,Active Regulars
+C00242,42,2,344.82,1,Lapsed / Low-Value
+C00243,24,10,3440.16,0,Active Regulars
+C00244,36,6,1349.2800000000002,3,At-Risk (Fading Regulars)
+C00245,159,1,204.27,1,Lapsed / Low-Value
+C00247,4,24,8517.13,2,Champions
+C00248,194,4,2590.59,3,At-Risk (Fading Regulars)
+C00249,2,5,3456.23,0,Active Regulars
+C00250,163,2,1197.62,1,Lapsed / Low-Value
+C00251,29,12,3039.72,0,Active Regulars
+C00252,3,16,4470.14,2,Champions
+C00254,110,4,1603.88,3,At-Risk (Fading Regulars)
+C00255,45,5,2826.91,3,At-Risk (Fading Regulars)
+C00256,245,3,244.78,1,Lapsed / Low-Value
+C00257,238,2,791.37,1,Lapsed / Low-Value
+C00258,28,9,4168.14,0,Active Regulars
+C00259,105,19,6818.99,3,At-Risk (Fading Regulars)
+C00260,1,20,4999.46,2,Champions
+C00261,10,6,2516.66,0,Active Regulars
+C00262,64,3,430.94,1,Lapsed / Low-Value
+C00263,11,11,4192.07,0,Active Regulars
+C00265,133,2,196.19,1,Lapsed / Low-Value
+C00266,12,7,1858.1799999999998,0,Active Regulars
+C00267,181,3,2062.2200000000003,3,At-Risk (Fading Regulars)
+C00268,127,1,120.05,1,Lapsed / Low-Value
+C00269,12,9,1248.45,0,Active Regulars
+C00270,9,11,4008.6,0,Active Regulars
+C00272,245,4,976.0999999999999,3,At-Risk (Fading Regulars)
+C00273,14,4,1181.98,0,Active Regulars
+C00274,21,5,1760.07,0,Active Regulars
+C00275,244,2,513.96,1,Lapsed / Low-Value
+C00276,246,1,114.33,1,Lapsed / Low-Value
+C00280,4,50,15785.53,2,Champions
+C00281,5,26,7250.37,2,Champions
+C00282,198,3,874.8399999999999,1,Lapsed / Low-Value
+C00283,43,9,3478.59,3,At-Risk (Fading Regulars)
+C00284,239,8,4350.13,3,At-Risk (Fading Regulars)
+C00285,22,6,1615.84,0,Active Regulars
+C00287,36,16,5174.15,0,Active Regulars
+C00288,46,3,311.01,1,Lapsed / Low-Value
+C00289,198,12,3756.93,3,At-Risk (Fading Regulars)
+C00290,97,1,678.62,1,Lapsed / Low-Value
+C00291,11,6,1753.3,0,Active Regulars
+C00292,15,59,17351.5,2,Champions
+C00293,306,3,1002.02,1,Lapsed / Low-Value
+C00294,114,4,1590.8799999999999,3,At-Risk (Fading Regulars)
+C00295,24,5,1115.3600000000001,0,Active Regulars
+C00296,13,16,4023.66,0,Active Regulars
+C00297,16,17,9514.28,2,Champions
+C00298,27,13,4306.55,0,Active Regulars
+C00299,351,1,184.07,1,Lapsed / Low-Value
+C00300,169,3,2633.51,3,At-Risk (Fading Regulars)
+C00301,28,1,128.48,1,Lapsed / Low-Value
+C00302,31,1,968.22,1,Lapsed / Low-Value
+C00303,5,5,1405.67,0,Active Regulars
+C00304,7,25,8609.65,2,Champions
+C00305,10,9,3783.54,0,Active Regulars
+C00306,7,8,1933.56,0,Active Regulars
+C00307,10,16,7203.65,2,Champions
+C00308,124,18,5078.9,3,At-Risk (Fading Regulars)
+C00309,11,12,3445.74,0,Active Regulars
+C00310,70,1,289.98,1,Lapsed / Low-Value
+C00311,232,1,473.11,1,Lapsed / Low-Value
+C00312,22,3,1333.6,0,Active Regulars
+C00313,236,2,886.62,1,Lapsed / Low-Value
+C00314,14,8,2089.9700000000003,0,Active Regulars
+C00315,27,15,6447.5,2,Champions
+C00316,261,1,505.38,1,Lapsed / Low-Value
+C00317,42,6,1415.23,3,At-Risk (Fading Regulars)
+C00318,39,4,1159.44,3,At-Risk (Fading Regulars)
+C00319,71,3,894.6899999999999,3,At-Risk (Fading Regulars)
+C00320,56,5,1849.62,3,At-Risk (Fading Regulars)
+C00321,310,4,2504.11,3,At-Risk (Fading Regulars)
+C00322,4,13,5552.59,2,Champions
+C00323,30,9,2522.7200000000003,0,Active Regulars
+C00324,1,53,19486.37,2,Champions
+C00325,140,5,1814.0800000000002,3,At-Risk (Fading Regulars)
+C00326,7,57,21452.65,2,Champions
+C00327,1,37,10087.46,2,Champions
+C00328,91,1,185.48,1,Lapsed / Low-Value
+C00331,2,21,5539.67,2,Champions
+C00332,319,2,332.83,1,Lapsed / Low-Value
+C00333,6,6,1867.52,0,Active Regulars
+C00334,4,15,4966.18,2,Champions
+C00335,82,3,1037.22,3,At-Risk (Fading Regulars)
+C00336,9,14,6281.88,2,Champions
+C00337,30,11,2606.43,0,Active Regulars
+C00338,113,2,217.13,1,Lapsed / Low-Value
+C00339,318,1,137.96,1,Lapsed / Low-Value
+C00340,332,3,842.0799999999999,1,Lapsed / Low-Value
+C00341,47,8,2419.92,3,At-Risk (Fading Regulars)
+C00342,6,17,5380.24,2,Champions
+C00343,164,1,404.89,1,Lapsed / Low-Value
+C00345,5,44,20714.28,2,Champions
+C00346,2,13,4855.98,2,Champions
+C00347,162,1,675.05,1,Lapsed / Low-Value
+C00348,4,20,6560.97,2,Champions
+C00349,155,2,494.27,1,Lapsed / Low-Value
+C00350,200,3,387.98,1,Lapsed / Low-Value
+C00351,314,2,387.74,1,Lapsed / Low-Value
+C00352,48,10,2905.58,3,At-Risk (Fading Regulars)
+C00353,290,2,390.75,1,Lapsed / Low-Value
+C00354,32,10,3878.13,0,Active Regulars
+C00355,112,9,3718.98,3,At-Risk (Fading Regulars)
+C00356,1,8,2572.34,0,Active Regulars
+C00357,29,16,7734.75,2,Champions
+C00359,28,3,1499.69,3,At-Risk (Fading Regulars)
+C00360,159,4,975.28,3,At-Risk (Fading Regulars)
+C00361,1,52,12826.630000000001,2,Champions
+C00362,23,16,5704.88,2,Champions
+C00363,3,15,3748.89,2,Champions
+C00364,118,3,1832.7600000000002,3,At-Risk (Fading Regulars)
+C00365,156,3,723.5,1,Lapsed / Low-Value
+C00366,228,4,1666.48,3,At-Risk (Fading Regulars)
+C00368,5,3,1586.15,0,Active Regulars
+C00369,4,21,5496.08,2,Champions
+C00370,13,7,1786.01,0,Active Regulars
+C00371,4,22,10269.28,2,Champions
+C00372,115,4,995.56,3,At-Risk (Fading Regulars)
+C00373,275,1,333.16,1,Lapsed / Low-Value
+C00374,242,4,2533.12,3,At-Risk (Fading Regulars)
+C00375,357,1,94.16,1,Lapsed / Low-Value
+C00377,17,8,1797.03,0,Active Regulars
+C00379,20,8,2983.17,0,Active Regulars
+C00380,2,13,3978.8,0,Active Regulars
+C00381,98,23,7708.88,2,Champions
+C00382,33,21,8092.46,2,Champions
+C00383,46,2,320.9,1,Lapsed / Low-Value
+C00385,337,4,1093.6,3,At-Risk (Fading Regulars)
+C00386,1,6,3935.61,0,Active Regulars
+C00387,3,17,8924.98,2,Champions
+C00388,6,3,893.98,0,Active Regulars
+C00389,3,8,1724.3799999999999,0,Active Regulars
+C00390,4,12,3216.95,0,Active Regulars
+C00391,21,2,1809.0,0,Active Regulars
+C00393,19,15,7446.7,2,Champions
+C00394,30,11,3304.35,0,Active Regulars
+C00395,8,26,9672.09,2,Champions
+C00396,7,28,14536.52,2,Champions
+C00397,151,3,536.08,1,Lapsed / Low-Value
+C00398,4,26,10215.44,2,Champions
+C00399,2,29,9020.99,2,Champions
+C00400,5,39,13105.15,2,Champions
+C00401,347,2,361.45,1,Lapsed / Low-Value
+C00402,4,20,4107.86,2,Champions
+C00403,20,14,5023.52,0,Active Regulars
+C00404,28,10,1955.85,0,Active Regulars
+C00405,21,24,9764.94,2,Champions
+C00406,15,12,4699.84,0,Active Regulars
+C00407,27,43,17225.91,2,Champions
+C00408,160,24,8881.86,3,At-Risk (Fading Regulars)
+C00409,11,5,1340.17,0,Active Regulars
+C00410,16,11,2786.54,0,Active Regulars
+C00411,30,5,1442.1100000000001,3,At-Risk (Fading Regulars)
+C00412,5,13,5585.41,2,Champions
+C00413,115,2,516.75,1,Lapsed / Low-Value
+C00414,78,2,1540.22,3,At-Risk (Fading Regulars)
+C00415,3,16,5071.58,2,Champions
+C00416,86,2,176.77,1,Lapsed / Low-Value
+C00417,5,17,3171.33,0,Active Regulars
+C00418,21,21,6079.71,2,Champions
+C00419,4,24,10522.01,2,Champions
+C00420,268,3,2052.61,3,At-Risk (Fading Regulars)
+C00421,119,14,4963.17,3,At-Risk (Fading Regulars)
+C00422,19,15,3376.45,0,Active Regulars
+C00423,7,25,10377.11,2,Champions
+C00424,9,7,1179.96,0,Active Regulars
+C00425,8,6,2186.9300000000003,0,Active Regulars
+C00426,111,6,1302.36,3,At-Risk (Fading Regulars)
+C00427,14,26,7851.47,2,Champions
+C00428,6,19,7639.66,2,Champions
+C00430,26,5,2509.0299999999997,0,Active Regulars
+C00431,68,14,3095.97,3,At-Risk (Fading Regulars)
+C00432,139,17,6749.19,3,At-Risk (Fading Regulars)
+C00433,259,2,1342.69,1,Lapsed / Low-Value
+C00434,9,18,5936.08,2,Champions
+C00436,20,17,8558.36,2,Champions
+C00437,14,24,6634.52,2,Champions
+C00438,17,16,4735.54,0,Active Regulars
+C00439,11,24,8462.25,2,Champions
+C00440,25,39,11582.92,2,Champions
+C00441,10,35,10836.55,2,Champions
+C00442,189,4,799.68,3,At-Risk (Fading Regulars)
+C00443,51,12,2931.36,3,At-Risk (Fading Regulars)
+C00445,3,16,3839.18,2,Champions
+C00446,5,30,16914.23,2,Champions
+C00447,136,3,835.1800000000001,1,Lapsed / Low-Value
+C00448,13,14,5860.97,2,Champions
+C00449,273,2,608.66,1,Lapsed / Low-Value
+C00450,201,4,1196.95,3,At-Risk (Fading Regulars)
+C00451,78,3,1617.61,3,At-Risk (Fading Regulars)
+C00452,130,15,6166.41,3,At-Risk (Fading Regulars)
+C00454,7,42,15340.6,2,Champions
+C00455,3,44,16062.55,2,Champions
+C00456,288,2,410.71000000000004,1,Lapsed / Low-Value
+C00457,17,8,2609.06,0,Active Regulars
+C00460,10,23,5955.68,2,Champions
+C00461,120,14,6485.52,3,At-Risk (Fading Regulars)
+C00462,1,14,3502.02,2,Champions
+C00463,33,13,7428.4800000000005,0,Active Regulars
+C00464,50,7,1706.96,3,At-Risk (Fading Regulars)
+C00465,10,15,3982.95,0,Active Regulars
+C00466,22,22,11912.75,2,Champions
+C00467,38,23,7458.49,2,Champions
+C00468,7,28,9916.97,2,Champions
+C00469,239,8,1960.51,3,At-Risk (Fading Regulars)
+C00470,25,12,5096.7,0,Active Regulars
+C00471,6,7,1507.55,0,Active Regulars
+C00472,214,7,2002.23,3,At-Risk (Fading Regulars)
+C00474,124,8,3302.73,3,At-Risk (Fading Regulars)
+C00475,5,36,9857.4,2,Champions
+C00476,15,6,1713.9099999999999,0,Active Regulars
+C00477,21,5,2335.46,0,Active Regulars
+C00478,67,2,273.9,1,Lapsed / Low-Value
+C00479,60,2,655.78,1,Lapsed / Low-Value
+C00480,35,12,2551.58,0,Active Regulars
+C00481,60,6,2215.48,3,At-Risk (Fading Regulars)
+C00482,8,39,10964.7,2,Champions
+C00483,78,12,7385.780000000001,3,At-Risk (Fading Regulars)
+C00484,147,10,3598.79,3,At-Risk (Fading Regulars)
+C00485,119,10,6513.05,3,At-Risk (Fading Regulars)
+C00487,10,6,1590.35,0,Active Regulars
+C00488,58,9,3030.85,3,At-Risk (Fading Regulars)
+C00489,3,28,6998.05,2,Champions
+C00491,10,11,3279.2999999999997,0,Active Regulars
+C00492,11,21,7178.61,2,Champions
+C00493,212,1,55.87,1,Lapsed / Low-Value
+C00494,165,10,3925.19,3,At-Risk (Fading Regulars)
+C00495,84,2,401.47,1,Lapsed / Low-Value
+C00496,153,1,345.17,1,Lapsed / Low-Value
+C00497,19,9,3352.38,0,Active Regulars
+C00498,76,7,4126.320000000001,3,At-Risk (Fading Regulars)
+C00499,12,8,4065.71,0,Active Regulars
+C00500,364,1,261.79,1,Lapsed / Low-Value
+C00502,19,15,3991.63,0,Active Regulars
+C00503,9,4,1938.7800000000002,0,Active Regulars
+C00504,20,6,2110.4,0,Active Regulars
+C00505,66,14,4721.05,3,At-Risk (Fading Regulars)
+C00506,22,5,1873.6200000000001,0,Active Regulars
+C00507,60,1,237.76,1,Lapsed / Low-Value
+C00508,54,6,1628.1599999999999,3,At-Risk (Fading Regulars)
+C00509,12,8,4851.36,0,Active Regulars
+C00510,262,1,223.47,1,Lapsed / Low-Value
+C00511,14,11,3107.88,0,Active Regulars
+C00512,265,4,963.36,3,At-Risk (Fading Regulars)
+C00513,4,11,4330.67,0,Active Regulars
+C00514,53,6,2483.21,3,At-Risk (Fading Regulars)
+C00515,5,12,3663.65,0,Active Regulars
+C00516,11,10,4273.51,0,Active Regulars
+C00517,55,3,428.64,1,Lapsed / Low-Value
+C00518,15,8,1654.42,0,Active Regulars
+C00519,271,3,1659.19,3,At-Risk (Fading Regulars)
+C00521,19,16,4743.07,0,Active Regulars
+C00522,15,9,2661.2799999999997,0,Active Regulars
+C00523,271,11,4140.75,3,At-Risk (Fading Regulars)
+C00524,51,3,1209.19,3,At-Risk (Fading Regulars)
+C00525,25,17,6867.29,2,Champions
+C00526,26,5,1511.5900000000001,0,Active Regulars
+C00529,6,28,8223.46,2,Champions
+C00530,4,12,4354.21,0,Active Regulars
+C00531,7,12,5005.9400000000005,0,Active Regulars
+C00532,112,3,446.88,1,Lapsed / Low-Value
+C00533,220,6,1409.6200000000001,3,At-Risk (Fading Regulars)
+C00534,59,6,2192.6,3,At-Risk (Fading Regulars)
+C00535,51,8,1213.44,3,At-Risk (Fading Regulars)
+C00536,17,18,5463.2,2,Champions
+C00537,5,58,21824.8,2,Champions
+C00538,23,7,1239.6399999999999,0,Active Regulars
+C00539,35,5,1436.2,3,At-Risk (Fading Regulars)
+C00540,11,11,3278.76,0,Active Regulars
+C00541,290,1,403.7,1,Lapsed / Low-Value
+C00542,2,117,41679.11,2,Champions
+C00544,173,1,534.25,1,Lapsed / Low-Value
+C00545,35,4,1169.25,3,At-Risk (Fading Regulars)
+C00546,242,2,227.87,1,Lapsed / Low-Value
+C00547,25,15,5389.16,0,Active Regulars
+C00548,329,1,1068.73,1,Lapsed / Low-Value
+C00549,3,45,15467.59,2,Champions
+C00550,48,1,395.42,1,Lapsed / Low-Value
+C00551,4,11,4387.2,0,Active Regulars
+C00552,104,4,1472.62,3,At-Risk (Fading Regulars)
+C00553,21,4,1700.14,0,Active Regulars
+C00554,46,9,3165.77,3,At-Risk (Fading Regulars)
+C00555,20,12,3544.62,0,Active Regulars
+C00556,310,1,55.46,1,Lapsed / Low-Value
+C00557,45,3,1538.92,3,At-Risk (Fading Regulars)
+C00558,14,16,6504.7300000000005,2,Champions
+C00559,150,1,707.34,1,Lapsed / Low-Value
+C00560,1,19,6134.01,2,Champions
+C00561,14,28,10042.15,2,Champions
+C00562,32,12,7524.66,0,Active Regulars
+C00563,73,16,7564.83,3,At-Risk (Fading Regulars)
+C00564,4,50,19770.88,2,Champions
+C00566,19,6,2411.58,0,Active Regulars
+C00567,1,27,7388.86,2,Champions
+C00568,6,8,2305.67,0,Active Regulars
+C00569,4,6,3810.38,0,Active Regulars
+C00570,22,22,7653.89,2,Champions
+C00571,33,20,9545.51,2,Champions
+C00574,239,1,670.78,1,Lapsed / Low-Value
+C00575,3,4,1516.35,0,Active Regulars
+C00576,206,5,1006.8199999999999,3,At-Risk (Fading Regulars)
+C00577,8,5,1180.16,0,Active Regulars
+C00578,2,18,6176.29,2,Champions
+C00579,6,10,2787.9,0,Active Regulars
+C00580,20,20,7592.8,2,Champions
+C00581,144,4,1078.6,3,At-Risk (Fading Regulars)
+C00582,5,33,11094.96,2,Champions
+C00583,258,2,477.78,1,Lapsed / Low-Value
+C00584,1,13,3401.0099999999998,0,Active Regulars
+C00585,9,14,3734.94,0,Active Regulars
+C00586,6,7,1790.39,0,Active Regulars
+C00587,9,11,3616.71,0,Active Regulars
+C00588,365,1,632.79,1,Lapsed / Low-Value
+C00589,20,19,6292.34,2,Champions
+C00590,13,9,2084.27,0,Active Regulars
+C00591,271,2,834.49,1,Lapsed / Low-Value
+C00592,11,4,1033.69,0,Active Regulars
+C00593,186,6,2261.5499999999997,3,At-Risk (Fading Regulars)
+C00594,153,2,287.18,1,Lapsed / Low-Value
+C00595,25,13,4092.08,0,Active Regulars
+C00597,9,3,1921.76,0,Active Regulars
+C00599,22,16,4592.36,0,Active Regulars
+C00600,6,15,3459.36,0,Active Regulars
+C00601,15,72,22901.46,2,Champions
+C00602,73,1,75.81,1,Lapsed / Low-Value
+C00603,110,5,926.37,3,At-Risk (Fading Regulars)
+C00604,18,18,9808.56,2,Champions
+C00605,95,28,9548.04,2,Champions
+C00606,5,78,24233.73,2,Champions
+C00609,23,26,12133.75,2,Champions
+C00610,3,9,2703.85,0,Active Regulars
+C00611,122,5,1137.77,3,At-Risk (Fading Regulars)
+C00612,46,14,7240.79,0,Active Regulars
+C00614,3,15,4165.14,2,Champions
+C00615,311,1,1091.4,1,Lapsed / Low-Value
+C00619,55,3,2411.03,3,At-Risk (Fading Regulars)
+C00620,76,67,23827.73,2,Champions
+C00621,196,3,552.63,1,Lapsed / Low-Value
+C00623,4,43,13721.98,2,Champions
+C00624,159,5,2659.8199999999997,3,At-Risk (Fading Regulars)
+C00625,30,9,1893.3400000000001,0,Active Regulars
+C00626,2,13,5846.77,2,Champions
+C00628,16,6,2815.5,0,Active Regulars
+C00629,256,3,572.38,1,Lapsed / Low-Value
+C00630,47,5,984.17,3,At-Risk (Fading Regulars)
+C00631,5,5,897.66,0,Active Regulars
+C00632,2,17,8432.79,2,Champions
+C00633,55,6,2110.81,3,At-Risk (Fading Regulars)
+C00634,14,2,621.3,1,Lapsed / Low-Value
+C00636,261,1,148.22,1,Lapsed / Low-Value
+C00638,241,1,964.38,1,Lapsed / Low-Value
+C00639,10,21,5801.65,2,Champions
+C00641,9,3,917.94,0,Active Regulars
+C00642,20,4,1279.67,0,Active Regulars
+C00643,268,4,1102.02,3,At-Risk (Fading Regulars)
+C00644,223,6,1844.03,3,At-Risk (Fading Regulars)
+C00645,23,6,1186.9,0,Active Regulars
+C00646,9,25,9556.710000000001,2,Champions
+C00647,293,2,449.95,1,Lapsed / Low-Value
+C00648,8,25,11268.24,2,Champions
+C00649,4,33,12158.07,2,Champions
+C00650,1,10,5200.889999999999,0,Active Regulars
+C00651,40,3,2137.8900000000003,3,At-Risk (Fading Regulars)
+C00652,6,13,4962.66,0,Active Regulars
+C00653,33,4,1354.8400000000001,3,At-Risk (Fading Regulars)
+C00654,106,5,1435.83,3,At-Risk (Fading Regulars)
+C00655,4,19,6322.88,2,Champions
+C00656,92,4,1220.76,3,At-Risk (Fading Regulars)
+C00657,307,1,533.94,1,Lapsed / Low-Value
+C00658,3,41,13254.22,2,Champions
+C00659,74,5,1166.17,3,At-Risk (Fading Regulars)
+C00660,92,11,3958.44,3,At-Risk (Fading Regulars)
+C00661,160,9,2551.93,3,At-Risk (Fading Regulars)
+C00662,1,28,7012.21,2,Champions
+C00663,9,13,4936.62,0,Active Regulars
+C00664,108,10,2746.8599999999997,3,At-Risk (Fading Regulars)
+C00665,4,7,1846.84,0,Active Regulars
+C00667,73,3,210.23000000000002,1,Lapsed / Low-Value
+C00668,221,1,62.72,1,Lapsed / Low-Value
+C00669,60,5,1858.8899999999999,3,At-Risk (Fading Regulars)
+C00670,191,4,1332.19,3,At-Risk (Fading Regulars)
+C00671,40,4,462.03,1,Lapsed / Low-Value
+C00673,1,7,2703.85,0,Active Regulars
+C00675,64,5,1558.05,3,At-Risk (Fading Regulars)
+C00676,9,19,7407.05,2,Champions
+C00677,45,4,1320.1,3,At-Risk (Fading Regulars)
+C00678,286,1,431.12,1,Lapsed / Low-Value
+C00679,114,12,2783.2200000000003,3,At-Risk (Fading Regulars)
+C00680,219,14,3531.79,3,At-Risk (Fading Regulars)
+C00681,12,15,4494.18,0,Active Regulars
+C00682,3,15,5226.57,2,Champions
+C00683,169,1,460.64,1,Lapsed / Low-Value
+C00684,32,2,94.50999999999999,1,Lapsed / Low-Value
+C00685,4,31,10770.41,2,Champions
+C00687,82,1,99.2,1,Lapsed / Low-Value
+C00688,16,29,5473.54,2,Champions
+C00689,307,1,411.42,1,Lapsed / Low-Value
+C00691,88,4,3970.54,3,At-Risk (Fading Regulars)
+C00692,63,5,1478.52,3,At-Risk (Fading Regulars)
+C00694,39,9,2393.75,0,Active Regulars
+C00695,163,2,826.17,1,Lapsed / Low-Value
+C00696,246,1,272.96,1,Lapsed / Low-Value
+C00697,17,16,4679.89,0,Active Regulars
+C00698,25,2,592.51,1,Lapsed / Low-Value
+C00699,42,9,3781.2799999999997,0,Active Regulars
+C00700,30,10,3407.91,0,Active Regulars
+C00701,6,25,6540.29,2,Champions
+C00702,43,4,1162.46,3,At-Risk (Fading Regulars)
+C00703,7,24,7524.97,2,Champions
+C00704,3,25,6149.47,2,Champions
+C00705,16,15,3157.27,0,Active Regulars
+C00706,165,4,3051.9700000000003,3,At-Risk (Fading Regulars)
+C00707,4,14,5072.28,2,Champions
+C00708,107,13,5239.83,3,At-Risk (Fading Regulars)
+C00709,124,1,529.46,1,Lapsed / Low-Value
+C00710,157,12,3779.6,3,At-Risk (Fading Regulars)
+C00711,2,23,8698.1,2,Champions
+C00712,66,34,13295.76,2,Champions
+C00713,25,5,865.26,0,Active Regulars
+C00714,21,13,4661.17,0,Active Regulars
+C00716,19,2,426.05999999999995,1,Lapsed / Low-Value
+C00717,26,10,2206.13,0,Active Regulars
+C00718,236,3,1166.06,3,At-Risk (Fading Regulars)
+C00719,180,3,555.81,1,Lapsed / Low-Value
+C00720,35,17,5245.85,0,Active Regulars
+C00721,5,27,6626.99,2,Champions
+C00722,58,6,1525.56,3,At-Risk (Fading Regulars)
+C00723,70,5,1245.29,3,At-Risk (Fading Regulars)
+C00724,47,7,2726.8900000000003,3,At-Risk (Fading Regulars)
+C00725,8,3,1232.78,0,Active Regulars
+C00726,8,27,12298.289999999999,2,Champions
+C00727,5,45,14477.98,2,Champions
+C00728,27,10,5521.51,0,Active Regulars
+C00729,3,19,4295.08,2,Champions
+C00730,2,22,5082.48,2,Champions
+C00731,21,8,4370.43,0,Active Regulars
+C00732,16,3,478.99,1,Lapsed / Low-Value
+C00733,19,3,2905.14,0,Active Regulars
+C00734,1,14,6853.48,2,Champions
+C00735,102,2,802.73,1,Lapsed / Low-Value
+C00736,80,4,904.9100000000001,3,At-Risk (Fading Regulars)
+C00737,118,5,1659.5099999999998,3,At-Risk (Fading Regulars)
+C00739,5,5,1801.27,0,Active Regulars
+C00740,62,7,1051.4,3,At-Risk (Fading Regulars)
+C00742,122,15,7666.45,3,At-Risk (Fading Regulars)
+C00743,8,18,7781.09,2,Champions
+C00744,5,15,7644.68,2,Champions
+C00745,243,9,4636.44,3,At-Risk (Fading Regulars)
+C00746,138,24,11419.03,2,Champions
+C00747,5,33,10258.99,2,Champions
+C00748,34,2,759.19,1,Lapsed / Low-Value
+C00749,8,15,4213.9,0,Active Regulars
+C00750,40,8,2668.37,3,At-Risk (Fading Regulars)
+C00751,2,11,3417.05,0,Active Regulars
+C00753,45,4,1846.93,3,At-Risk (Fading Regulars)
+C00754,130,12,4950.49,3,At-Risk (Fading Regulars)
+C00755,94,2,880.49,1,Lapsed / Low-Value
+C00756,173,3,641.28,1,Lapsed / Low-Value
+C00757,3,34,13561.32,2,Champions
+C00758,86,3,878.96,1,Lapsed / Low-Value
+C00760,21,8,3261.28,0,Active Regulars
+C00761,25,26,11204.52,2,Champions
+C00762,8,6,1296.05,0,Active Regulars
+C00764,8,6,3188.18,0,Active Regulars
+C00765,3,50,16634.37,2,Champions
+C00766,264,3,440.14,1,Lapsed / Low-Value
+C00768,75,32,9190.91,2,Champions
+C00769,139,4,2046.15,3,At-Risk (Fading Regulars)
+C00770,31,22,8913.09,2,Champions
+C00772,14,53,17725.59,2,Champions
+C00773,265,2,230.03,1,Lapsed / Low-Value
+C00774,223,1,261.48,1,Lapsed / Low-Value
+C00775,1,9,2128.94,0,Active Regulars
+C00776,4,20,6023.47,2,Champions
+C00777,13,14,5047.46,0,Active Regulars
+C00778,3,8,1474.32,0,Active Regulars
+C00779,28,11,3437.75,0,Active Regulars
+C00780,11,9,1941.26,0,Active Regulars
+C00782,126,4,1599.8899999999999,3,At-Risk (Fading Regulars)
+C00783,110,2,419.94,1,Lapsed / Low-Value
+C00784,3,46,14515.58,2,Champions
+C00785,10,18,8461.93,2,Champions
+C00786,70,3,998.3,3,At-Risk (Fading Regulars)
+C00787,10,12,3395.84,0,Active Regulars
+C00788,29,5,1802.5,0,Active Regulars
+C00790,273,6,1575.4,3,At-Risk (Fading Regulars)
+C00792,72,4,2458.14,3,At-Risk (Fading Regulars)
+C00793,270,1,183.06,1,Lapsed / Low-Value
+C00794,11,16,6038.72,2,Champions
+C00795,2,25,9393.9,2,Champions
+C00796,11,25,6330.4,2,Champions
+C00797,69,4,1645.06,3,At-Risk (Fading Regulars)
+C00798,154,2,366.95,1,Lapsed / Low-Value
+C00799,240,3,402.41999999999996,1,Lapsed / Low-Value
+C00800,50,6,1019.79,3,At-Risk (Fading Regulars)
+C00801,3,8,3617.37,0,Active Regulars
+C00802,15,13,2301.46,0,Active Regulars
+C00803,27,8,2088.16,0,Active Regulars
+C00804,4,7,1588.65,0,Active Regulars
+C00805,316,1,267.65,1,Lapsed / Low-Value
+C00806,309,2,254.77,1,Lapsed / Low-Value
+C00807,8,22,7314.77,2,Champions
+C00808,1,10,3424.7900000000004,0,Active Regulars
+C00809,289,1,296.77,1,Lapsed / Low-Value
+C00810,5,65,25783.62,2,Champions
+C00811,16,25,10350.13,2,Champions
+C00812,29,10,4241.3099999999995,0,Active Regulars
+C00813,355,1,179.58,1,Lapsed / Low-Value
+C00814,283,6,2811.23,3,At-Risk (Fading Regulars)
+C00815,87,4,1506.52,3,At-Risk (Fading Regulars)
+C00816,5,6,2382.7200000000003,0,Active Regulars
+C00817,8,18,5743.92,2,Champions
+C00818,121,9,2182.77,3,At-Risk (Fading Regulars)
+C00819,117,2,397.64,1,Lapsed / Low-Value
+C00820,15,7,3149.7,0,Active Regulars
+C00821,197,7,3269.26,3,At-Risk (Fading Regulars)
+C00824,269,7,2583.3199999999997,3,At-Risk (Fading Regulars)
+C00825,353,1,204.23,1,Lapsed / Low-Value
+C00826,126,36,13182.880000000001,2,Champions
+C00827,294,2,953.6500000000001,1,Lapsed / Low-Value
+C00828,178,3,1054.87,3,At-Risk (Fading Regulars)
+C00829,24,14,2696.34,0,Active Regulars
+C00830,6,9,3940.7,0,Active Regulars
+C00831,17,20,6908.34,2,Champions
+C00832,171,1,100.73,1,Lapsed / Low-Value
+C00833,5,20,9487.6,2,Champions
+C00834,9,1,161.03,1,Lapsed / Low-Value
+C00835,25,7,3010.53,0,Active Regulars
+C00838,26,14,2892.87,0,Active Regulars
+C00839,107,11,4625.12,3,At-Risk (Fading Regulars)
+C00840,236,2,292.72,1,Lapsed / Low-Value
+C00841,197,4,853.54,3,At-Risk (Fading Regulars)
+C00842,7,22,6969.51,2,Champions
+C00843,5,34,10069.23,2,Champions
+C00844,215,5,1208.5,3,At-Risk (Fading Regulars)
+C00845,15,25,9276.31,2,Champions
+C00846,19,2,628.0799999999999,1,Lapsed / Low-Value
+C00847,275,1,379.65,1,Lapsed / Low-Value
+C00848,2,10,3835.22,0,Active Regulars
+C00849,250,3,993.9200000000001,1,Lapsed / Low-Value
+C00850,47,5,1699.59,3,At-Risk (Fading Regulars)
+C00851,1,23,8410.47,2,Champions
+C00852,4,1,203.34,1,Lapsed / Low-Value
+C00853,22,2,433.04,1,Lapsed / Low-Value
+C00854,334,1,129.34,1,Lapsed / Low-Value
+C00855,92,8,2920.72,3,At-Risk (Fading Regulars)
+C00856,26,8,3101.64,0,Active Regulars
+C00857,1,40,11034.67,2,Champions
+C00858,7,21,8758.34,2,Champions
+C00859,68,6,1904.43,3,At-Risk (Fading Regulars)
+C00861,320,1,117.13,1,Lapsed / Low-Value
+C00862,23,3,446.83,1,Lapsed / Low-Value
+C00863,4,29,11569.09,2,Champions
+C00864,11,9,2025.07,0,Active Regulars
+C00866,237,5,952.26,3,At-Risk (Fading Regulars)
+C00868,12,19,8412.49,2,Champions
+C00869,106,3,671.67,1,Lapsed / Low-Value
+C00870,1,22,8956.36,2,Champions
+C00871,19,3,902.04,0,Active Regulars
+C00872,21,4,1746.7,0,Active Regulars
+C00873,175,5,2480.16,3,At-Risk (Fading Regulars)
+C00875,43,20,5579.97,2,Champions
+C00876,122,10,3265.4,3,At-Risk (Fading Regulars)
+C00877,6,46,17227.22,2,Champions
+C00878,12,11,4081.3199999999997,0,Active Regulars
+C00879,2,8,2847.37,0,Active Regulars
+C00880,15,39,15264.87,2,Champions
+C00881,5,14,4657.12,2,Champions
+C00882,19,6,1613.29,0,Active Regulars
+C00883,3,16,4297.72,2,Champions
+C00884,32,9,3158.24,0,Active Regulars
+C00885,308,8,4669.96,3,At-Risk (Fading Regulars)
+C00886,4,3,1692.37,0,Active Regulars
+C00887,33,20,7743.02,2,Champions
+C00888,296,1,167.48,1,Lapsed / Low-Value
+C00891,8,8,2137.45,0,Active Regulars
+C00892,1,15,4186.97,2,Champions
+C00893,2,12,4687.8,0,Active Regulars
+C00894,31,18,7198.35,2,Champions
+C00895,45,3,491.99999999999994,1,Lapsed / Low-Value
+C00896,259,10,2414.74,3,At-Risk (Fading Regulars)
+C00897,25,7,1057.21,0,Active Regulars
+C00898,18,5,2587.46,0,Active Regulars
+C00899,21,13,4539.58,0,Active Regulars
+C00900,58,12,3479.84,3,At-Risk (Fading Regulars)
+C00901,2,12,3612.18,0,Active Regulars
+C00903,7,5,1667.62,0,Active Regulars
+C00904,288,3,2193.85,3,At-Risk (Fading Regulars)
+C00905,52,10,3037.21,3,At-Risk (Fading Regulars)
+C00906,254,5,1846.65,3,At-Risk (Fading Regulars)
+C00907,11,9,3841.24,0,Active Regulars
+C00908,303,4,779.27,1,Lapsed / Low-Value
+C00909,65,5,2167.99,3,At-Risk (Fading Regulars)
+C00910,26,3,1229.77,3,At-Risk (Fading Regulars)
+C00911,201,11,4376.66,3,At-Risk (Fading Regulars)
+C00912,62,4,1222.03,3,At-Risk (Fading Regulars)
+C00913,121,2,297.49,1,Lapsed / Low-Value
+C00914,64,4,1423.66,3,At-Risk (Fading Regulars)
+C00915,30,6,1726.99,0,Active Regulars
+C00916,5,18,3921.32,2,Champions
+C00917,89,4,1348.07,3,At-Risk (Fading Regulars)
+C00918,201,4,1834.9499999999998,3,At-Risk (Fading Regulars)
+C00919,134,5,2163.99,3,At-Risk (Fading Regulars)
+C00920,273,1,116.18,1,Lapsed / Low-Value
+C00922,22,18,5020.5,2,Champions
+C00923,243,3,408.46,1,Lapsed / Low-Value
+C00924,59,4,1837.65,3,At-Risk (Fading Regulars)
+C00925,12,22,6889.45,2,Champions
+C00926,305,2,671.86,1,Lapsed / Low-Value
+C00927,43,5,1886.69,3,At-Risk (Fading Regulars)
+C00928,34,17,4110.73,0,Active Regulars
+C00929,173,12,3850.32,3,At-Risk (Fading Regulars)
+C00930,189,4,1576.93,3,At-Risk (Fading Regulars)
+C00931,289,4,1830.14,3,At-Risk (Fading Regulars)
+C00932,42,16,6186.37,0,Active Regulars
+C00933,188,7,3451.78,3,At-Risk (Fading Regulars)
+C00934,94,3,438.29999999999995,1,Lapsed / Low-Value
+C00935,4,15,4534.13,2,Champions
+C00936,251,2,216.17,1,Lapsed / Low-Value
+C00937,6,3,947.39,0,Active Regulars
+C00938,59,12,3503.06,3,At-Risk (Fading Regulars)
+C00939,236,1,578.84,1,Lapsed / Low-Value
+C00940,69,11,4063.39,3,At-Risk (Fading Regulars)
+C00941,122,17,4865.13,3,At-Risk (Fading Regulars)
+C00942,288,2,589.62,1,Lapsed / Low-Value
+C00944,41,1,305.34,1,Lapsed / Low-Value
+C00945,21,9,3725.1200000000003,0,Active Regulars
+C00946,4,14,4057.17,0,Active Regulars
+C00947,20,7,2900.27,0,Active Regulars
+C00948,100,2,310.12,1,Lapsed / Low-Value
+C00949,33,16,5587.27,0,Active Regulars
+C00952,260,4,530.66,1,Lapsed / Low-Value
+C00953,2,14,4408.13,2,Champions
+C00954,34,8,3764.27,0,Active Regulars
+C00956,6,3,1488.77,0,Active Regulars
+C00957,3,38,14686.01,2,Champions
+C00958,3,6,2424.38,0,Active Regulars
+C00959,17,11,3737.91,0,Active Regulars
+C00960,9,10,4667.76,0,Active Regulars
+C00961,47,14,5270.01,0,Active Regulars
+C00962,151,3,420.13,1,Lapsed / Low-Value
+C00963,44,6,960.25,3,At-Risk (Fading Regulars)
+C00964,115,7,1640.1799999999998,3,At-Risk (Fading Regulars)
+C00965,9,4,1610.0,0,Active Regulars
+C00966,5,33,11521.58,2,Champions
+C00967,32,8,2341.3,0,Active Regulars
+C00968,144,2,673.05,1,Lapsed / Low-Value
+C00969,41,7,4028.3199999999997,3,At-Risk (Fading Regulars)
+C00970,142,2,1521.3200000000002,3,At-Risk (Fading Regulars)
+C00972,181,11,2060.31,3,At-Risk (Fading Regulars)
+C00973,17,12,2880.59,0,Active Regulars
+C00974,144,3,1277.08,3,At-Risk (Fading Regulars)
+C00975,343,1,1530.88,1,Lapsed / Low-Value
+C00976,79,4,936.06,3,At-Risk (Fading Regulars)
+C00977,4,6,870.83,0,Active Regulars
+C00978,64,8,1954.26,3,At-Risk (Fading Regulars)
+C00979,8,50,17700.6,2,Champions
+C00981,233,1,387.28,1,Lapsed / Low-Value
+C00982,81,5,922.5699999999999,3,At-Risk (Fading Regulars)
+C00983,1,77,27711.18,2,Champions
+C00984,15,14,3748.58,0,Active Regulars
+C00985,55,6,1654.9,3,At-Risk (Fading Regulars)
+C00986,43,3,371.34000000000003,1,Lapsed / Low-Value
+C00988,81,4,923.6500000000001,3,At-Risk (Fading Regulars)
+C00989,34,15,6769.54,0,Active Regulars
+C00990,98,13,4637.18,3,At-Risk (Fading Regulars)
+C00991,2,20,8362.31,2,Champions
+C00992,29,7,1671.3,0,Active Regulars
+C00993,15,33,11033.01,2,Champions
+C00994,47,3,278.74,1,Lapsed / Low-Value
+C00996,5,5,1773.25,0,Active Regulars
+C00997,24,23,7391.48,2,Champions
+C00998,332,2,792.13,1,Lapsed / Low-Value
+C00999,30,2,400.85,1,Lapsed / Low-Value
+C01001,3,9,4981.03,0,Active Regulars
+C01002,10,15,3886.23,0,Active Regulars
+C01003,19,7,1977.0700000000002,0,Active Regulars
+C01004,161,15,4120.89,3,At-Risk (Fading Regulars)
+C01006,243,2,3015.6699999999996,3,At-Risk (Fading Regulars)
+C01007,79,2,449.34,1,Lapsed / Low-Value
+C01008,40,11,3335.95,0,Active Regulars
+C01009,11,8,1991.78,0,Active Regulars
+C01010,10,12,3251.93,0,Active Regulars
+C01011,48,3,591.69,1,Lapsed / Low-Value
+C01012,77,7,2459.21,3,At-Risk (Fading Regulars)
+C01013,43,6,1368.3999999999999,3,At-Risk (Fading Regulars)
+C01014,144,6,1524.11,3,At-Risk (Fading Regulars)
+C01015,303,2,344.85,1,Lapsed / Low-Value
+C01016,130,2,619.72,1,Lapsed / Low-Value
+C01017,42,7,4369.38,3,At-Risk (Fading Regulars)
+C01018,26,13,3996.54,0,Active Regulars
+C01019,316,1,289.96,1,Lapsed / Low-Value
+C01020,25,8,1897.0,0,Active Regulars
+C01021,157,1,91.95,1,Lapsed / Low-Value
+C01022,19,4,1387.54,0,Active Regulars
+C01023,5,23,6962.62,2,Champions
+C01024,2,19,5962.0,2,Champions
+C01025,12,15,2879.48,0,Active Regulars
+C01026,182,4,2675.56,3,At-Risk (Fading Regulars)
+C01027,4,27,9091.03,2,Champions
+C01028,321,2,570.05,1,Lapsed / Low-Value
+C01029,27,9,3318.13,0,Active Regulars
+C01030,86,2,501.02,1,Lapsed / Low-Value
+C01031,10,22,7587.19,2,Champions
+C01032,105,2,282.28,1,Lapsed / Low-Value
+C01033,1,59,26766.91,2,Champions
+C01034,1,10,3159.5299999999997,0,Active Regulars
+C01035,16,12,6748.84,0,Active Regulars
+C01036,204,4,1094.31,3,At-Risk (Fading Regulars)
+C01037,31,30,8974.61,2,Champions
+C01040,332,1,128.47,1,Lapsed / Low-Value
+C01041,238,10,2606.37,3,At-Risk (Fading Regulars)
+C01042,6,77,27089.33,2,Champions
+C01043,34,16,6322.45,2,Champions
+C01044,12,48,13409.1,2,Champions
+C01046,13,7,1659.1499999999999,0,Active Regulars
+C01047,8,6,1113.64,0,Active Regulars
+C01048,6,40,14683.85,2,Champions
+C01049,3,32,11427.99,2,Champions
+C01050,25,13,4655.14,0,Active Regulars
+C01051,37,10,2209.22,0,Active Regulars
+C01052,296,2,926.1,1,Lapsed / Low-Value
+C01053,2,41,11059.57,2,Champions
+C01054,191,3,744.92,1,Lapsed / Low-Value
+C01055,2,2,270.53,0,Active Regulars
+C01056,10,37,13845.79,2,Champions
+C01058,12,51,16253.960000000001,2,Champions
+C01059,135,10,2357.7599999999998,3,At-Risk (Fading Regulars)
+C01060,13,7,4294.16,0,Active Regulars
+C01061,39,13,4579.44,0,Active Regulars
+C01062,199,9,2333.2,3,At-Risk (Fading Regulars)
+C01063,28,4,974.56,3,At-Risk (Fading Regulars)
+C01064,8,79,27535.44,2,Champions
+C01065,3,10,4007.66,0,Active Regulars
+C01066,87,3,960.72,3,At-Risk (Fading Regulars)
+C01067,5,31,11353.16,2,Champions
+C01068,74,9,4863.55,3,At-Risk (Fading Regulars)
+C01069,8,12,6345.76,0,Active Regulars
+C01070,113,28,6684.81,2,Champions
+C01071,270,5,1523.3,3,At-Risk (Fading Regulars)
+C01072,2,7,1749.66,0,Active Regulars
+C01073,1,26,10578.0,2,Champions
+C01074,5,4,2033.53,0,Active Regulars
+C01075,57,5,568.21,3,At-Risk (Fading Regulars)
+C01076,14,18,6561.3,2,Champions
+C01077,54,27,8114.7300000000005,2,Champions
+C01078,34,3,763.11,1,Lapsed / Low-Value
+C01079,24,13,4014.2200000000003,0,Active Regulars
+C01080,4,11,3261.95,0,Active Regulars
+C01081,4,12,4165.28,0,Active Regulars
+C01082,27,11,4064.7,0,Active Regulars
+C01083,9,31,13576.960000000001,2,Champions
+C01084,162,3,721.25,1,Lapsed / Low-Value
+C01085,2,3,453.56,0,Active Regulars
+C01086,134,14,4416.610000000001,3,At-Risk (Fading Regulars)
+C01087,28,12,2918.11,0,Active Regulars
+C01088,11,36,10581.87,2,Champions
+C01089,120,1,160.64,1,Lapsed / Low-Value
+C01090,3,15,5470.71,2,Champions
+C01091,1,10,2787.06,0,Active Regulars
+C01092,10,7,2822.9,0,Active Regulars
+C01093,154,7,2443.88,3,At-Risk (Fading Regulars)
+C01094,85,6,1710.45,3,At-Risk (Fading Regulars)
+C01095,132,3,364.15,1,Lapsed / Low-Value
+C01096,27,10,2929.22,0,Active Regulars
+C01097,7,25,8420.99,2,Champions
+C01098,3,68,21256.68,2,Champions
+C01099,3,25,8127.3,2,Champions
+C01100,8,18,6888.3099999999995,2,Champions
+C01101,274,4,1449.16,3,At-Risk (Fading Regulars)
+C01102,5,16,6379.700000000001,2,Champions
+C01105,252,8,2779.73,3,At-Risk (Fading Regulars)
+C01106,49,5,2754.19,3,At-Risk (Fading Regulars)
+C01107,328,1,179.06,1,Lapsed / Low-Value
+C01108,7,50,19533.74,2,Champions
+C01109,1,19,4135.6,2,Champions
+C01110,254,2,724.8599999999999,1,Lapsed / Low-Value
+C01111,36,7,1407.09,3,At-Risk (Fading Regulars)
+C01112,29,8,3242.7400000000002,0,Active Regulars
+C01113,32,4,984.8900000000001,3,At-Risk (Fading Regulars)
+C01114,4,18,7701.6,2,Champions
+C01115,114,6,1685.48,3,At-Risk (Fading Regulars)
+C01116,16,5,1240.37,0,Active Regulars
+C01117,27,5,2453.38,0,Active Regulars
+C01118,181,3,1350.33,3,At-Risk (Fading Regulars)
+C01119,6,49,16740.39,2,Champions
+C01120,233,2,596.17,1,Lapsed / Low-Value
+C01121,44,2,882.54,1,Lapsed / Low-Value
+C01122,12,22,6571.18,2,Champions
+C01123,267,2,474.88,1,Lapsed / Low-Value
+C01124,166,5,1316.3400000000001,3,At-Risk (Fading Regulars)
+C01125,1,31,10125.18,2,Champions
+C01126,236,1,126.13,1,Lapsed / Low-Value
+C01127,23,5,1870.15,0,Active Regulars
+C01128,151,10,3649.81,3,At-Risk (Fading Regulars)
+C01129,30,4,1664.67,3,At-Risk (Fading Regulars)
+C01130,142,2,892.46,1,Lapsed / Low-Value
+C01131,151,2,262.5,1,Lapsed / Low-Value
+C01132,1,9,1881.38,0,Active Regulars
+C01133,119,2,752.26,1,Lapsed / Low-Value
+C01134,7,10,3499.8599999999997,0,Active Regulars
+C01135,57,1,112.77,1,Lapsed / Low-Value
+C01136,128,4,1373.83,3,At-Risk (Fading Regulars)
+C01137,69,12,5363.35,3,At-Risk (Fading Regulars)
+C01138,290,1,876.17,1,Lapsed / Low-Value
+C01139,285,5,1884.35,3,At-Risk (Fading Regulars)
+C01140,5,6,5333.01,0,Active Regulars
+C01141,39,6,2423.53,3,At-Risk (Fading Regulars)
+C01142,6,5,2920.98,0,Active Regulars
+C01144,103,1,193.8,1,Lapsed / Low-Value
+C01145,201,3,1789.63,3,At-Risk (Fading Regulars)
+C01146,44,1,265.73,1,Lapsed / Low-Value
+C01147,65,1,264.92,1,Lapsed / Low-Value
+C01149,1,34,11586.9,2,Champions
+C01150,2,4,1292.66,0,Active Regulars
+C01151,18,2,446.17,1,Lapsed / Low-Value
+C01153,257,1,364.85,1,Lapsed / Low-Value
+C01154,6,8,4342.01,0,Active Regulars
+C01155,30,17,5365.52,0,Active Regulars
+C01156,32,11,3869.27,0,Active Regulars
+C01158,34,11,2939.79,0,Active Regulars
+C01159,307,6,3076.01,3,At-Risk (Fading Regulars)
+C01160,44,12,4025.5699999999997,0,Active Regulars
+C01161,2,12,5735.34,2,Champions
+C01162,24,3,516.87,1,Lapsed / Low-Value
+C01163,24,14,3659.81,0,Active Regulars
+C01164,144,3,589.75,1,Lapsed / Low-Value
+C01165,69,2,615.37,1,Lapsed / Low-Value
+C01166,26,5,924.0,0,Active Regulars
+C01167,224,1,207.01,1,Lapsed / Low-Value
+C01168,29,11,4394.95,0,Active Regulars
+C01169,110,5,1498.39,3,At-Risk (Fading Regulars)
+C01170,209,3,819.5,1,Lapsed / Low-Value
+C01171,305,9,2161.83,3,At-Risk (Fading Regulars)
+C01172,111,2,307.35,1,Lapsed / Low-Value
+C01173,41,8,1687.8,3,At-Risk (Fading Regulars)
+C01175,196,8,3739.5299999999997,3,At-Risk (Fading Regulars)
+C01176,9,22,5017.72,2,Champions
+C01177,292,8,1625.94,3,At-Risk (Fading Regulars)
+C01178,197,2,740.3399999999999,1,Lapsed / Low-Value
+C01179,3,30,8871.24,2,Champions
+C01180,49,5,1796.43,3,At-Risk (Fading Regulars)
+C01181,12,10,3949.16,0,Active Regulars
+C01182,28,1,110.12,1,Lapsed / Low-Value
+C01183,269,6,2894.3900000000003,3,At-Risk (Fading Regulars)
+C01184,26,12,3662.41,0,Active Regulars
+C01185,129,10,4184.14,3,At-Risk (Fading Regulars)
+C01186,174,1,248.01,1,Lapsed / Low-Value
+C01187,127,11,2124.43,3,At-Risk (Fading Regulars)
+C01188,29,9,3756.99,0,Active Regulars
+C01189,62,6,2785.94,3,At-Risk (Fading Regulars)
+C01190,222,4,603.23,1,Lapsed / Low-Value
+C01191,9,13,3311.35,0,Active Regulars
+C01192,121,1,505.12,1,Lapsed / Low-Value
+C01193,84,2,461.48,1,Lapsed / Low-Value
+C01194,13,17,6212.53,2,Champions
+C01195,12,23,7951.58,2,Champions
+C01196,14,11,3835.5299999999997,0,Active Regulars
+C01197,133,4,1063.4,3,At-Risk (Fading Regulars)
+C01198,1,16,9537.06,2,Champions
+C01199,123,7,1410.46,3,At-Risk (Fading Regulars)
+C01200,12,25,8494.25,2,Champions
+C01201,4,13,4176.85,0,Active Regulars
+C01203,187,3,1570.73,3,At-Risk (Fading Regulars)
+C01204,84,20,7079.9,3,At-Risk (Fading Regulars)
+C01206,9,26,6511.48,2,Champions
+C01207,259,3,1579.77,3,At-Risk (Fading Regulars)
+C01208,3,44,18169.34,2,Champions
+C01209,10,3,1686.45,0,Active Regulars
+C01210,45,2,1147.47,3,At-Risk (Fading Regulars)
+C01212,4,10,4016.7200000000003,0,Active Regulars
+C01216,52,9,2062.9,3,At-Risk (Fading Regulars)
+C01217,305,1,245.34,1,Lapsed / Low-Value
+C01218,5,24,9329.34,2,Champions
+C01219,8,46,16095.32,2,Champions
+C01220,107,1,643.3,1,Lapsed / Low-Value
+C01221,11,4,1047.83,0,Active Regulars
+C01222,45,4,887.77,3,At-Risk (Fading Regulars)
+C01223,31,8,1560.69,0,Active Regulars
+C01224,312,1,620.42,1,Lapsed / Low-Value
+C01225,68,1,297.84,1,Lapsed / Low-Value
+C01226,87,8,2080.7,3,At-Risk (Fading Regulars)
+C01228,23,14,5060.77,0,Active Regulars
+C01229,18,25,8096.95,2,Champions
+C01230,5,8,1302.52,0,Active Regulars
+C01231,241,3,681.69,1,Lapsed / Low-Value
+C01232,236,5,2368.23,3,At-Risk (Fading Regulars)
+C01233,5,35,9766.16,2,Champions
+C01234,290,3,675.36,1,Lapsed / Low-Value
+C01236,4,7,2033.74,0,Active Regulars
+C01237,108,2,615.29,1,Lapsed / Low-Value
+C01239,61,7,2361.2,3,At-Risk (Fading Regulars)
+C01240,45,5,1352.31,3,At-Risk (Fading Regulars)
+C01241,9,17,3603.33,0,Active Regulars
+C01242,110,6,2557.91,3,At-Risk (Fading Regulars)
+C01243,57,3,512.13,1,Lapsed / Low-Value
+C01244,111,3,626.08,1,Lapsed / Low-Value
+C01245,207,7,2855.56,3,At-Risk (Fading Regulars)
+C01246,125,1,152.81,1,Lapsed / Low-Value
+C01248,82,1,64.36,1,Lapsed / Low-Value
+C01250,16,2,561.35,1,Lapsed / Low-Value
+C01251,161,3,940.14,1,Lapsed / Low-Value
+C01252,357,1,130.21,1,Lapsed / Low-Value
+C01253,329,1,188.98,1,Lapsed / Low-Value
+C01254,50,5,1075.17,3,At-Risk (Fading Regulars)
+C01255,355,1,325.96,1,Lapsed / Low-Value
+C01256,7,6,1736.0500000000002,0,Active Regulars
+C01257,1,27,9478.369999999999,2,Champions
+C01259,3,27,8908.08,2,Champions
+C01260,21,36,13520.23,2,Champions
+C01262,75,1,95.79,1,Lapsed / Low-Value
+C01263,5,17,7434.84,2,Champions
+C01264,9,16,5192.99,2,Champions
+C01266,33,2,695.9300000000001,1,Lapsed / Low-Value
+C01267,2,14,4937.51,2,Champions
+C01268,19,13,5272.18,0,Active Regulars
+C01270,5,25,7370.05,2,Champions
+C01272,173,1,299.46,1,Lapsed / Low-Value
+C01275,93,6,1004.0400000000001,3,At-Risk (Fading Regulars)
+C01276,10,17,7739.94,2,Champions
+C01277,171,17,7369.33,3,At-Risk (Fading Regulars)
+C01279,240,2,535.71,1,Lapsed / Low-Value
+C01282,45,5,1009.4399999999999,3,At-Risk (Fading Regulars)
+C01283,66,8,2322.79,3,At-Risk (Fading Regulars)
+C01284,156,11,3680.23,3,At-Risk (Fading Regulars)
+C01285,6,11,3959.04,0,Active Regulars
+C01286,1,13,3938.4300000000003,2,Champions
+C01287,81,1,312.2,1,Lapsed / Low-Value
+C01289,20,13,6257.91,0,Active Regulars
+C01291,8,33,9613.619999999999,2,Champions
+C01292,18,5,1257.77,0,Active Regulars
+C01293,12,26,8455.77,2,Champions
+C01294,24,7,2197.14,0,Active Regulars
+C01295,11,20,6530.84,2,Champions
+C01296,82,1,102.54,1,Lapsed / Low-Value
+C01297,23,6,2024.45,0,Active Regulars
+C01298,38,19,6044.98,2,Champions
+C01300,194,1,80.62,1,Lapsed / Low-Value
+C01301,74,5,1482.25,3,At-Risk (Fading Regulars)
+C01303,86,10,3165.38,3,At-Risk (Fading Regulars)
+C01304,282,2,271.3,1,Lapsed / Low-Value
+C01305,284,1,101.52,1,Lapsed / Low-Value
+C01306,80,10,5085.25,3,At-Risk (Fading Regulars)
+C01307,111,7,2836.3599999999997,3,At-Risk (Fading Regulars)
+C01308,276,2,1263.32,1,Lapsed / Low-Value
+C01310,14,23,9339.7,2,Champions
+C01311,36,21,4181.01,2,Champions
+C01312,4,17,7142.42,2,Champions
+C01313,48,26,7143.3099999999995,2,Champions
+C01314,242,4,2600.08,3,At-Risk (Fading Regulars)
+C01315,3,61,16607.01,2,Champions
+C01316,1,21,7674.87,2,Champions
+C01317,24,8,2496.51,0,Active Regulars
+C01318,10,16,6052.55,2,Champions
+C01319,6,35,10897.1,2,Champions
+C01320,20,11,4642.34,0,Active Regulars
+C01321,16,19,5640.99,2,Champions
+C01322,39,10,2996.46,0,Active Regulars
+C01323,128,5,972.58,3,At-Risk (Fading Regulars)
+C01324,149,1,371.53,1,Lapsed / Low-Value
+C01325,19,18,6584.96,2,Champions
+C01326,17,5,1350.5,0,Active Regulars
+C01327,1,13,4501.43,2,Champions
+C01328,36,21,5957.19,2,Champions
+C01329,10,44,13653.98,2,Champions
+C01330,341,1,311.84,1,Lapsed / Low-Value
+C01331,36,18,5920.16,2,Champions
+C01332,43,29,8457.8,2,Champions
+C01334,70,2,586.2,1,Lapsed / Low-Value
+C01335,134,2,897.4300000000001,1,Lapsed / Low-Value
+C01336,168,11,1982.16,3,At-Risk (Fading Regulars)
+C01337,5,16,4796.15,2,Champions
+C01338,101,9,2841.98,3,At-Risk (Fading Regulars)
+C01339,118,6,1947.2,3,At-Risk (Fading Regulars)
+C01340,13,18,7289.68,2,Champions
+C01341,111,2,182.28,1,Lapsed / Low-Value
+C01342,19,5,3671.25,0,Active Regulars
+C01343,4,22,6805.46,2,Champions
+C01344,51,10,5315.88,3,At-Risk (Fading Regulars)
+C01345,71,4,1286.58,3,At-Risk (Fading Regulars)
+C01346,8,20,6635.11,2,Champions
+C01347,120,3,531.65,1,Lapsed / Low-Value
+C01348,161,10,2546.66,3,At-Risk (Fading Regulars)
+C01349,2,18,4690.23,2,Champions
+C01350,3,31,14814.99,2,Champions
+C01351,9,20,6282.55,2,Champions
+C01352,6,15,6480.02,2,Champions
+C01353,145,3,1169.0300000000002,3,At-Risk (Fading Regulars)
+C01354,3,12,5262.71,2,Champions
+C01355,5,15,4592.2699999999995,2,Champions
+C01356,65,22,6609.38,2,Champions
+C01357,8,18,5051.94,2,Champions
+C01358,141,1,302.76,1,Lapsed / Low-Value
+C01359,8,37,10581.0,2,Champions
+C01360,14,4,1115.73,0,Active Regulars
+C01364,44,3,1078.65,3,At-Risk (Fading Regulars)
+C01365,114,2,292.13,1,Lapsed / Low-Value
+C01367,36,3,767.6400000000001,1,Lapsed / Low-Value
+C01368,79,14,6964.570000000001,3,At-Risk (Fading Regulars)
+C01369,116,3,762.8199999999999,1,Lapsed / Low-Value
+C01370,74,4,856.98,3,At-Risk (Fading Regulars)
+C01371,13,12,3588.2000000000003,0,Active Regulars
+C01372,312,3,876.16,1,Lapsed / Low-Value
+C01373,286,1,266.39,1,Lapsed / Low-Value
+C01374,14,8,3334.6,0,Active Regulars
+C01375,25,6,2758.91,0,Active Regulars
+C01376,16,35,10679.4,2,Champions
+C01378,217,3,1426.01,3,At-Risk (Fading Regulars)
+C01379,120,2,569.96,1,Lapsed / Low-Value
+C01380,2,10,2333.44,0,Active Regulars
+C01381,8,23,8346.12,2,Champions
+C01382,4,14,3343.88,0,Active Regulars
+C01383,4,37,13170.09,2,Champions
+C01384,23,2,608.27,1,Lapsed / Low-Value
+C01385,11,14,5098.24,0,Active Regulars
+C01387,298,1,155.65,1,Lapsed / Low-Value
+C01388,80,6,2269.33,3,At-Risk (Fading Regulars)
+C01389,68,3,1874.13,3,At-Risk (Fading Regulars)
+C01390,288,2,719.5799999999999,1,Lapsed / Low-Value
+C01391,242,4,877.5699999999999,3,At-Risk (Fading Regulars)
+C01392,15,1,227.9,1,Lapsed / Low-Value
+C01393,266,1,1096.63,1,Lapsed / Low-Value
+C01394,359,1,190.25,1,Lapsed / Low-Value
+C01395,9,4,1471.72,0,Active Regulars
+C01396,141,14,4776.7,3,At-Risk (Fading Regulars)
+C01397,284,1,240.23,1,Lapsed / Low-Value
+C01398,8,53,19813.62,2,Champions
+C01400,41,10,3354.8199999999997,0,Active Regulars
+C01401,68,1,224.52,1,Lapsed / Low-Value
+C01402,25,19,5388.66,2,Champions
+C01403,77,1,177.27,1,Lapsed / Low-Value
+C01404,6,5,1837.6599999999999,0,Active Regulars
+C01405,3,36,9944.12,2,Champions
+C01406,257,10,2351.0299999999997,3,At-Risk (Fading Regulars)
+C01407,11,27,8572.39,2,Champions
+C01408,30,1,487.42,1,Lapsed / Low-Value
+C01409,27,9,2625.45,0,Active Regulars
+C01410,8,12,3888.74,0,Active Regulars
+C01411,26,8,2473.34,0,Active Regulars
+C01412,134,1,411.67,1,Lapsed / Low-Value
+C01413,7,27,8828.68,2,Champions
+C01414,133,2,498.55,1,Lapsed / Low-Value
+C01415,19,20,6486.52,2,Champions
+C01416,5,6,2420.29,0,Active Regulars
+C01417,11,74,25165.37,2,Champions
+C01418,15,20,5728.3,2,Champions
+C01419,1,6,2871.95,0,Active Regulars
+C01421,102,1,200.16,1,Lapsed / Low-Value
+C01422,215,1,105.64,1,Lapsed / Low-Value
+C01423,26,15,6058.54,0,Active Regulars
+C01424,53,5,1265.8400000000001,3,At-Risk (Fading Regulars)
+C01425,25,6,4257.53,0,Active Regulars
+C01427,8,15,3374.5299999999997,0,Active Regulars
+C01428,3,55,24410.3,2,Champions
+C01429,20,17,5930.18,2,Champions
+C01430,59,7,2658.8,3,At-Risk (Fading Regulars)
+C01432,186,2,493.51,1,Lapsed / Low-Value
+C01433,18,9,2678.4900000000002,0,Active Regulars
+C01434,8,15,4815.15,2,Champions
+C01435,21,34,13694.53,2,Champions
+C01436,10,11,3920.97,0,Active Regulars
+C01437,21,8,2198.35,0,Active Regulars
+C01438,4,14,4953.19,2,Champions
+C01439,214,6,1886.24,3,At-Risk (Fading Regulars)
+C01440,90,4,1217.3,3,At-Risk (Fading Regulars)
+C01441,39,8,2479.46,3,At-Risk (Fading Regulars)
+C01442,122,3,1584.74,3,At-Risk (Fading Regulars)
+C01443,63,4,1170.62,3,At-Risk (Fading Regulars)
+C01444,11,7,3405.04,0,Active Regulars
+C01446,8,13,6322.599999999999,2,Champions
+C01447,57,6,1737.75,3,At-Risk (Fading Regulars)
+C01448,23,27,9843.6,2,Champions
+C01449,99,13,4188.01,3,At-Risk (Fading Regulars)
+C01450,43,6,1531.96,3,At-Risk (Fading Regulars)
+C01452,26,25,8663.59,2,Champions
+C01453,18,6,2004.2,0,Active Regulars
+C01454,13,6,2168.9100000000003,0,Active Regulars
+C01455,193,1,307.05,1,Lapsed / Low-Value
+C01456,8,16,5495.08,2,Champions
+C01457,9,3,1096.8,0,Active Regulars
+C01458,172,1,255.66,1,Lapsed / Low-Value
+C01460,32,11,2051.2,0,Active Regulars
+C01461,61,11,3181.83,3,At-Risk (Fading Regulars)
+C01462,10,14,6482.94,2,Champions
+C01463,156,37,15473.22,2,Champions
+C01464,11,17,5887.51,2,Champions
+C01465,339,1,220.35,1,Lapsed / Low-Value
+C01466,142,4,1293.06,3,At-Risk (Fading Regulars)
+C01467,152,2,242.76,1,Lapsed / Low-Value
+C01468,2,7,2312.17,0,Active Regulars
+C01469,77,2,432.79,1,Lapsed / Low-Value
+C01470,26,9,3524.54,0,Active Regulars
+C01471,16,40,15064.07,2,Champions
+C01472,10,13,4490.58,0,Active Regulars
+C01473,9,10,2063.2400000000002,0,Active Regulars
+C01474,5,10,3616.92,0,Active Regulars
+C01475,21,8,2681.1699999999996,0,Active Regulars
+C01478,53,16,4705.67,0,Active Regulars
+C01479,19,3,479.63,1,Lapsed / Low-Value
+C01480,210,8,2971.1800000000003,3,At-Risk (Fading Regulars)
+C01482,65,10,4106.61,3,At-Risk (Fading Regulars)
+C01483,248,3,928.25,1,Lapsed / Low-Value
+C01484,75,2,2998.57,3,At-Risk (Fading Regulars)
+C01485,64,5,1768.58,3,At-Risk (Fading Regulars)
+C01486,23,31,8680.4,2,Champions
+C01487,6,12,2692.31,0,Active Regulars
+C01489,4,13,4130.98,0,Active Regulars
+C01490,1,25,10299.67,2,Champions
+C01491,16,17,5095.28,2,Champions
+C01492,25,9,2522.09,0,Active Regulars
+C01493,217,7,1455.36,3,At-Risk (Fading Regulars)
+C01494,4,47,15703.01,2,Champions
+C01495,9,21,9587.8,2,Champions
+C01496,54,5,870.66,3,At-Risk (Fading Regulars)
+C01497,48,12,4183.84,3,At-Risk (Fading Regulars)
+C01498,13,20,7197.26,2,Champions
+C01499,3,7,1645.8799999999999,0,Active Regulars
+C01500,279,2,251.54000000000002,1,Lapsed / Low-Value
+C01501,171,2,262.58,1,Lapsed / Low-Value
+C01502,36,17,4608.19,0,Active Regulars
+C01504,26,6,3741.37,0,Active Regulars
+C01505,25,23,9741.380000000001,2,Champions
+C01506,137,7,3393.91,3,At-Risk (Fading Regulars)
+C01507,19,43,11057.23,2,Champions
+C01509,103,5,1761.4299999999998,3,At-Risk (Fading Regulars)
+C01510,18,8,2610.82,0,Active Regulars
+C01513,3,26,10806.18,2,Champions
+C01514,24,6,1861.1399999999999,0,Active Regulars
+C01515,36,2,1738.3600000000001,3,At-Risk (Fading Regulars)
+C01516,17,9,3828.16,0,Active Regulars
+C01517,31,13,6897.19,0,Active Regulars
+C01518,19,7,2172.23,0,Active Regulars
+C01519,15,4,1587.36,0,Active Regulars
+C01520,4,7,3437.03,0,Active Regulars
+C01521,224,12,3288.52,3,At-Risk (Fading Regulars)
+C01523,213,2,411.76,1,Lapsed / Low-Value
+C01524,209,9,2869.6800000000003,3,At-Risk (Fading Regulars)
+C01525,1,25,6571.08,2,Champions
+C01526,10,68,20865.64,2,Champions
+C01527,10,4,671.52,0,Active Regulars
+C01528,253,7,3641.17,3,At-Risk (Fading Regulars)
+C01529,14,4,1339.1499999999999,0,Active Regulars
+C01530,109,3,888.97,1,Lapsed / Low-Value
+C01531,8,24,12009.01,2,Champions
+C01532,87,21,4572.51,3,At-Risk (Fading Regulars)
+C01533,15,12,4276.06,0,Active Regulars
+C01534,163,45,13716.7,2,Champions
+C01535,9,7,3043.39,0,Active Regulars
+C01536,10,23,7792.8,2,Champions
+C01537,299,2,224.12,1,Lapsed / Low-Value
+C01538,210,6,2246.95,3,At-Risk (Fading Regulars)
+C01539,318,1,153.04,1,Lapsed / Low-Value
+C01540,37,9,2595.35,0,Active Regulars
+C01541,8,13,4336.35,0,Active Regulars
+C01542,22,16,6065.25,2,Champions
+C01543,2,5,1104.1399999999999,0,Active Regulars
+C01545,1,13,3140.34,0,Active Regulars
+C01546,105,1,207.27,1,Lapsed / Low-Value
+C01547,137,3,1310.13,3,At-Risk (Fading Regulars)
+C01548,15,19,6947.48,2,Champions
+C01549,46,3,622.8000000000001,1,Lapsed / Low-Value
+C01550,26,10,2849.08,0,Active Regulars
+C01551,301,4,926.91,3,At-Risk (Fading Regulars)
+C01552,27,6,3989.96,0,Active Regulars
+C01554,199,1,103.44,1,Lapsed / Low-Value
+C01555,7,6,2391.04,0,Active Regulars
+C01557,292,5,700.31,3,At-Risk (Fading Regulars)
+C01558,38,2,686.23,1,Lapsed / Low-Value
+C01559,49,3,2129.86,3,At-Risk (Fading Regulars)
+C01560,81,5,2361.26,3,At-Risk (Fading Regulars)
+C01561,148,4,1638.09,3,At-Risk (Fading Regulars)
+C01562,16,15,4149.53,0,Active Regulars
+C01563,8,7,3064.3100000000004,0,Active Regulars
+C01565,25,10,4374.610000000001,0,Active Regulars
+C01566,169,7,2321.13,3,At-Risk (Fading Regulars)
+C01567,6,35,12039.1,2,Champions
+C01568,1,67,20218.02,2,Champions
+C01569,269,1,287.9,1,Lapsed / Low-Value
+C01570,262,6,3414.5699999999997,3,At-Risk (Fading Regulars)
+C01571,5,15,6160.85,2,Champions
+C01572,33,27,7118.0,2,Champions
+C01573,9,37,12384.59,2,Champions
+C01574,13,15,6234.97,2,Champions
+C01575,1,27,11503.61,2,Champions
+C01576,231,3,733.94,1,Lapsed / Low-Value
+C01578,4,31,10561.05,2,Champions
+C01579,2,12,4585.389999999999,0,Active Regulars
+C01581,206,16,7165.92,3,At-Risk (Fading Regulars)
+C01582,10,7,2032.6100000000001,0,Active Regulars
+C01583,5,15,8693.29,2,Champions
+C01584,4,11,3399.09,0,Active Regulars
+C01585,4,3,935.68,0,Active Regulars
+C01586,116,2,703.8399999999999,1,Lapsed / Low-Value
+C01587,4,14,4710.599999999999,2,Champions
+C01588,9,25,5758.21,2,Champions
+C01589,14,8,2575.12,0,Active Regulars
+C01591,1,16,5671.36,2,Champions
+C01592,256,2,1771.82,3,At-Risk (Fading Regulars)
+C01593,156,12,6923.32,3,At-Risk (Fading Regulars)
+C01594,280,1,353.1,1,Lapsed / Low-Value
+C01596,73,4,1082.19,3,At-Risk (Fading Regulars)
+C01597,55,5,1086.99,3,At-Risk (Fading Regulars)
+C01598,42,1,62.17,1,Lapsed / Low-Value
+C01599,11,9,3351.58,0,Active Regulars
+C01600,51,2,645.54,1,Lapsed / Low-Value
+C01601,24,27,7768.16,2,Champions
+C01602,48,8,2180.2200000000003,3,At-Risk (Fading Regulars)
+C01604,334,1,307.05,1,Lapsed / Low-Value
+C01605,88,8,2352.09,3,At-Risk (Fading Regulars)
+C01606,10,9,3030.54,0,Active Regulars
+C01607,178,4,1126.75,3,At-Risk (Fading Regulars)
+C01608,1,72,27225.53,2,Champions
+C01609,132,1,312.05,1,Lapsed / Low-Value
+C01610,144,3,1682.81,3,At-Risk (Fading Regulars)
+C01611,79,4,1353.27,3,At-Risk (Fading Regulars)
+C01612,83,5,1048.18,3,At-Risk (Fading Regulars)
+C01613,46,6,1267.81,3,At-Risk (Fading Regulars)
+C01614,8,4,1877.74,0,Active Regulars
+C01615,103,8,1562.17,3,At-Risk (Fading Regulars)
+C01616,41,10,3493.8,0,Active Regulars
+C01617,12,17,3944.46,0,Active Regulars
+C01618,227,1,197.46,1,Lapsed / Low-Value
+C01619,60,6,1660.46,3,At-Risk (Fading Regulars)
+C01620,24,4,2081.14,0,Active Regulars
+C01621,63,2,865.08,1,Lapsed / Low-Value
+C01622,27,11,4304.84,0,Active Regulars
+C01624,91,10,2460.24,3,At-Risk (Fading Regulars)
+C01625,195,3,1621.76,3,At-Risk (Fading Regulars)
+C01626,19,39,12274.75,2,Champions
+C01628,78,5,4072.06,3,At-Risk (Fading Regulars)
+C01629,27,3,258.37,1,Lapsed / Low-Value
+C01630,5,3,1834.52,0,Active Regulars
+C01631,294,5,2124.21,3,At-Risk (Fading Regulars)
+C01632,142,3,1698.85,3,At-Risk (Fading Regulars)
+C01633,2,19,9745.97,2,Champions
+C01634,56,4,1151.94,3,At-Risk (Fading Regulars)
+C01635,350,1,282.34,1,Lapsed / Low-Value
+C01636,14,6,1320.1100000000001,0,Active Regulars
+C01637,4,9,3164.49,0,Active Regulars
+C01638,16,18,5953.01,2,Champions
+C01640,1,5,2613.44,0,Active Regulars
+C01641,22,19,9046.25,2,Champions
+C01643,4,27,8865.85,2,Champions
+C01645,39,6,2252.56,3,At-Risk (Fading Regulars)
+C01646,3,25,7389.95,2,Champions
+C01647,159,1,139.59,1,Lapsed / Low-Value
+C01648,64,1,859.95,1,Lapsed / Low-Value
+C01649,296,4,1490.18,3,At-Risk (Fading Regulars)
+C01650,8,21,7286.38,2,Champions
+C01651,116,3,1389.06,3,At-Risk (Fading Regulars)
+C01652,283,2,1704.3700000000001,3,At-Risk (Fading Regulars)
+C01654,7,18,9100.91,2,Champions
+C01656,2,30,9632.27,2,Champions
+C01657,249,5,1852.58,3,At-Risk (Fading Regulars)
+C01658,171,1,117.57,1,Lapsed / Low-Value
+C01659,69,7,3454.6600000000003,3,At-Risk (Fading Regulars)
+C01660,2,7,2664.5699999999997,0,Active Regulars
+C01661,7,11,3803.33,0,Active Regulars
+C01662,74,3,1586.84,3,At-Risk (Fading Regulars)
+C01663,25,2,657.85,1,Lapsed / Low-Value
+C01664,7,15,4276.68,0,Active Regulars
+C01665,15,2,778.48,1,Lapsed / Low-Value
+C01667,51,9,3994.5699999999997,3,At-Risk (Fading Regulars)
+C01668,353,1,65.68,1,Lapsed / Low-Value
+C01669,1,21,8042.92,2,Champions
+C01670,249,1,189.69,1,Lapsed / Low-Value
+C01671,289,1,672.59,1,Lapsed / Low-Value
+C01672,2,20,7877.0,2,Champions
+C01673,17,11,3092.37,0,Active Regulars
+C01674,102,18,9371.86,3,At-Risk (Fading Regulars)
+C01675,80,5,1193.43,3,At-Risk (Fading Regulars)
+C01676,9,21,5989.17,2,Champions
+C01677,105,20,6008.15,3,At-Risk (Fading Regulars)
+C01678,307,1,250.68,1,Lapsed / Low-Value
+C01679,8,3,1947.7,0,Active Regulars
+C01680,2,6,2732.25,0,Active Regulars
+C01681,129,6,3029.69,3,At-Risk (Fading Regulars)
+C01682,48,5,1554.94,3,At-Risk (Fading Regulars)
+C01683,5,4,1072.2,0,Active Regulars
+C01684,11,10,4481.33,0,Active Regulars
+C01685,11,10,5698.84,0,Active Regulars
+C01686,218,5,1759.79,3,At-Risk (Fading Regulars)
+C01688,17,7,2284.42,0,Active Regulars
+C01689,2,28,10393.15,2,Champions
+C01690,6,26,7852.87,2,Champions
+C01691,232,6,2579.27,3,At-Risk (Fading Regulars)
+C01692,5,32,9641.14,2,Champions
+C01693,7,12,2984.7799999999997,0,Active Regulars
+C01694,12,67,22122.39,2,Champions
+C01695,5,23,7784.09,2,Champions
+C01696,8,41,19650.11,2,Champions
+C01697,140,18,5465.3,3,At-Risk (Fading Regulars)
+C01698,273,3,2246.63,3,At-Risk (Fading Regulars)
+C01699,191,2,638.25,1,Lapsed / Low-Value
+C01700,80,16,4465.09,3,At-Risk (Fading Regulars)
+C01701,246,5,2403.63,3,At-Risk (Fading Regulars)
+C01702,8,46,13032.76,2,Champions
+C01703,307,5,5147.96,3,At-Risk (Fading Regulars)
+C01704,22,6,2375.82,0,Active Regulars
+C01705,22,8,2853.84,0,Active Regulars
+C01706,43,12,5056.19,0,Active Regulars
+C01707,215,3,990.9,1,Lapsed / Low-Value
+C01708,17,11,2867.33,0,Active Regulars
+C01709,37,7,2186.56,3,At-Risk (Fading Regulars)
+C01710,51,27,7360.38,2,Champions
+C01711,1,31,11273.41,2,Champions
+C01712,5,15,4520.74,2,Champions
+C01714,166,30,7509.55,3,At-Risk (Fading Regulars)
+C01715,6,29,9533.88,2,Champions
+C01716,13,18,6783.95,2,Champions
+C01717,5,18,5502.65,2,Champions
+C01719,223,1,193.55,1,Lapsed / Low-Value
+C01720,24,19,6115.83,2,Champions
+C01721,362,1,759.08,1,Lapsed / Low-Value
+C01722,135,8,1940.77,3,At-Risk (Fading Regulars)
+C01723,2,25,6531.2,2,Champions
+C01724,182,2,618.29,1,Lapsed / Low-Value
+C01725,84,4,639.51,1,Lapsed / Low-Value
+C01726,5,7,2886.7,0,Active Regulars
+C01727,153,4,2369.4,3,At-Risk (Fading Regulars)
+C01728,54,10,2819.0099999999998,3,At-Risk (Fading Regulars)
+C01729,68,3,562.61,1,Lapsed / Low-Value
+C01730,6,21,5755.96,2,Champions
+C01731,326,1,242.36,1,Lapsed / Low-Value
+C01732,38,10,3469.59,0,Active Regulars
+C01733,38,4,2977.57,3,At-Risk (Fading Regulars)
+C01734,5,25,9732.22,2,Champions
+C01735,9,2,290.69,1,Lapsed / Low-Value
+C01736,143,2,536.9300000000001,1,Lapsed / Low-Value
+C01737,281,4,1177.37,3,At-Risk (Fading Regulars)
+C01738,6,18,6071.7300000000005,2,Champions
+C01739,114,4,1295.16,3,At-Risk (Fading Regulars)
+C01741,37,6,2697.5699999999997,3,At-Risk (Fading Regulars)
+C01742,28,8,3282.04,0,Active Regulars
+C01743,19,9,2963.7400000000002,0,Active Regulars
+C01744,312,2,390.94,1,Lapsed / Low-Value
+C01745,60,14,5492.14,3,At-Risk (Fading Regulars)
+C01746,14,11,4277.83,0,Active Regulars
+C01748,115,7,1469.83,3,At-Risk (Fading Regulars)
+C01749,113,11,3234.94,3,At-Risk (Fading Regulars)
+C01750,52,10,3931.99,3,At-Risk (Fading Regulars)
+C01751,1,15,5234.92,2,Champions
+C01752,128,6,2876.74,3,At-Risk (Fading Regulars)
+C01753,17,12,3895.42,0,Active Regulars
+C01754,21,4,1968.43,0,Active Regulars
+C01756,199,1,241.58,1,Lapsed / Low-Value
+C01758,4,38,18077.41,2,Champions
+C01759,34,13,4097.41,0,Active Regulars
+C01760,29,11,3460.81,0,Active Regulars
+C01761,91,2,203.75,1,Lapsed / Low-Value
+C01762,20,12,3648.67,0,Active Regulars
+C01763,19,13,4989.45,0,Active Regulars
+C01764,98,8,2284.1,3,At-Risk (Fading Regulars)
+C01765,10,4,2118.53,0,Active Regulars
+C01767,2,23,10369.44,2,Champions
+C01768,79,8,1946.5800000000002,3,At-Risk (Fading Regulars)
+C01769,198,1,117.58,1,Lapsed / Low-Value
+C01770,3,29,8381.05,2,Champions
+C01771,3,22,6942.29,2,Champions
+C01772,6,31,10551.45,2,Champions
+C01773,86,2,534.76,1,Lapsed / Low-Value
+C01774,1,12,5714.0199999999995,2,Champions
+C01775,68,2,239.25,1,Lapsed / Low-Value
+C01776,15,4,1414.31,0,Active Regulars
+C01777,1,70,25531.95,2,Champions
+C01778,61,2,1650.03,3,At-Risk (Fading Regulars)
+C01779,16,23,8482.08,2,Champions
+C01780,271,1,273.53,1,Lapsed / Low-Value
+C01781,41,5,2683.8,3,At-Risk (Fading Regulars)
+C01782,3,96,40629.73,2,Champions
+C01783,246,2,534.42,1,Lapsed / Low-Value
+C01784,137,2,805.46,1,Lapsed / Low-Value
+C01785,8,20,7059.889999999999,2,Champions
+C01786,8,15,6545.48,2,Champions
+C01787,7,19,5974.52,2,Champions
+C01788,244,2,442.78,1,Lapsed / Low-Value
+C01789,40,6,3142.6,3,At-Risk (Fading Regulars)
+C01790,1,4,1234.71,0,Active Regulars
+C01791,82,1,177.76,1,Lapsed / Low-Value
+C01792,54,7,2106.48,3,At-Risk (Fading Regulars)
+C01793,158,3,1388.1399999999999,3,At-Risk (Fading Regulars)
+C01794,117,3,1022.84,3,At-Risk (Fading Regulars)
+C01795,39,3,1032.94,3,At-Risk (Fading Regulars)
+C01796,143,3,990.02,3,At-Risk (Fading Regulars)
+C01797,352,1,77.01,1,Lapsed / Low-Value
+C01798,6,12,4753.59,0,Active Regulars
+C01799,14,4,1172.19,0,Active Regulars
+C01800,58,11,4862.52,3,At-Risk (Fading Regulars)
+C01801,9,11,3130.17,0,Active Regulars
+C01802,11,14,3239.02,0,Active Regulars
+C01803,19,9,2994.77,0,Active Regulars
+C01804,58,3,910.53,3,At-Risk (Fading Regulars)
+C01805,251,4,1526.95,3,At-Risk (Fading Regulars)
+C01806,2,33,13475.84,2,Champions
+C01808,19,12,1800.45,0,Active Regulars
+C01809,168,6,1126.07,3,At-Risk (Fading Regulars)
+C01811,75,5,1430.15,3,At-Risk (Fading Regulars)
+C01812,106,3,2480.33,3,At-Risk (Fading Regulars)
+C01814,5,15,5320.35,2,Champions
+C01815,84,10,4284.400000000001,3,At-Risk (Fading Regulars)
+C01816,5,17,5092.91,2,Champions
+C01817,117,2,887.27,1,Lapsed / Low-Value
+C01818,8,7,1653.18,0,Active Regulars
+C01819,61,4,1938.1100000000001,3,At-Risk (Fading Regulars)
+C01820,33,7,6500.13,0,Active Regulars
+C01821,46,17,5109.13,0,Active Regulars
+C01822,9,32,12533.28,2,Champions
+C01823,201,3,1340.19,3,At-Risk (Fading Regulars)
+C01824,151,7,3331.05,3,At-Risk (Fading Regulars)
+C01825,164,3,1030.0,3,At-Risk (Fading Regulars)
+C01826,6,15,4406.55,2,Champions
+C01827,106,10,3817.25,3,At-Risk (Fading Regulars)
+C01828,4,10,2801.77,0,Active Regulars
+C01830,8,25,9406.45,2,Champions
+C01831,34,5,1896.78,3,At-Risk (Fading Regulars)
+C01832,12,18,4531.15,2,Champions
+C01833,66,7,1994.38,3,At-Risk (Fading Regulars)
+C01835,1,6,1023.16,0,Active Regulars
+C01836,2,18,4955.9800000000005,2,Champions
+C01837,3,20,6988.46,2,Champions
+C01839,296,4,1158.6399999999999,3,At-Risk (Fading Regulars)
+C01840,7,34,9443.470000000001,2,Champions
+C01841,100,4,1507.25,3,At-Risk (Fading Regulars)
+C01842,277,6,2191.8,3,At-Risk (Fading Regulars)
+C01843,157,11,2012.29,3,At-Risk (Fading Regulars)
+C01844,72,7,2579.77,3,At-Risk (Fading Regulars)
+C01846,34,10,3592.96,0,Active Regulars
+C01847,4,24,6993.71,2,Champions
+C01848,16,14,4017.06,0,Active Regulars
+C01850,39,4,805.25,3,At-Risk (Fading Regulars)
+C01851,2,34,9246.25,2,Champions
+C01852,6,17,5653.95,2,Champions
+C01853,27,8,2091.76,0,Active Regulars
+C01854,30,4,888.27,3,At-Risk (Fading Regulars)
+C01856,17,9,2634.39,0,Active Regulars
+C01857,41,6,1918.43,3,At-Risk (Fading Regulars)
+C01858,50,10,2604.7799999999997,3,At-Risk (Fading Regulars)
+C01859,168,2,329.58,1,Lapsed / Low-Value
+C01860,233,3,455.0,1,Lapsed / Low-Value
+C01861,101,4,848.3299999999999,3,At-Risk (Fading Regulars)
+C01862,12,2,2407.11,0,Active Regulars
+C01863,66,1,301.89,1,Lapsed / Low-Value
+C01864,272,2,389.25,1,Lapsed / Low-Value
+C01865,189,9,4189.01,3,At-Risk (Fading Regulars)
+C01866,108,1,215.44,1,Lapsed / Low-Value
+C01867,1,74,27892.23,2,Champions
+C01868,64,64,21380.35,2,Champions
+C01870,290,1,170.51,1,Lapsed / Low-Value
+C01871,39,5,1593.15,3,At-Risk (Fading Regulars)
+C01872,51,1,181.27,1,Lapsed / Low-Value
+C01873,104,5,1089.65,3,At-Risk (Fading Regulars)
+C01874,12,8,1837.3700000000001,0,Active Regulars
+C01875,53,7,3252.2799999999997,3,At-Risk (Fading Regulars)
+C01876,54,9,2367.67,3,At-Risk (Fading Regulars)
+C01878,14,9,4207.58,0,Active Regulars
+C01879,256,1,344.49,1,Lapsed / Low-Value
+C01880,318,1,108.48,1,Lapsed / Low-Value
+C01881,31,9,3327.64,0,Active Regulars
+C01882,7,15,3799.86,0,Active Regulars
+C01883,311,5,1077.3,3,At-Risk (Fading Regulars)
+C01884,12,25,7909.28,2,Champions
+C01885,3,8,2488.76,0,Active Regulars
+C01886,5,6,1633.6399999999999,0,Active Regulars
+C01887,33,5,1614.81,3,At-Risk (Fading Regulars)
+C01888,10,17,5299.93,2,Champions
+C01889,22,9,2123.52,0,Active Regulars
+C01890,320,1,275.25,1,Lapsed / Low-Value
+C01891,3,13,3928.17,0,Active Regulars
+C01892,321,1,427.68,1,Lapsed / Low-Value
+C01893,5,46,16195.91,2,Champions
+C01894,325,4,1887.26,3,At-Risk (Fading Regulars)
+C01895,10,23,7963.82,2,Champions
+C01896,8,18,5261.31,2,Champions
+C01897,5,29,8830.19,2,Champions
+C01898,305,5,1354.92,3,At-Risk (Fading Regulars)
+C01900,29,10,5328.88,0,Active Regulars
+C01901,14,4,824.11,0,Active Regulars
+C01902,353,1,264.0,1,Lapsed / Low-Value
+C01903,2,23,7231.7,2,Champions
+C01904,64,6,2011.25,3,At-Risk (Fading Regulars)
+C01905,45,2,627.57,1,Lapsed / Low-Value
+C01906,214,25,6675.88,3,At-Risk (Fading Regulars)
+C01907,13,75,25297.77,2,Champions
+C01909,12,5,908.9100000000001,0,Active Regulars
+C01910,37,6,1605.83,3,At-Risk (Fading Regulars)
+C01911,204,2,1153.48,1,Lapsed / Low-Value
+C01912,1,46,18373.49,2,Champions
+C01913,165,1,131.56,1,Lapsed / Low-Value
+C01914,8,28,7673.5,2,Champions
+C01915,107,7,2347.67,3,At-Risk (Fading Regulars)
+C01916,131,21,5475.05,3,At-Risk (Fading Regulars)
+C01917,15,10,3290.32,0,Active Regulars
+C01918,273,3,1895.01,3,At-Risk (Fading Regulars)
+C01919,2,25,7854.32,2,Champions
+C01920,3,39,10912.14,2,Champions
+C01921,5,39,16010.69,2,Champions
+C01923,220,10,5264.36,3,At-Risk (Fading Regulars)
+C01924,64,4,1618.19,3,At-Risk (Fading Regulars)
+C01925,3,13,4432.11,0,Active Regulars
+C01926,46,8,2973.39,3,At-Risk (Fading Regulars)
+C01927,7,13,2472.5299999999997,0,Active Regulars
+C01928,47,10,2321.9,3,At-Risk (Fading Regulars)
+C01930,2,29,7339.55,2,Champions
+C01931,46,19,5076.42,0,Active Regulars
+C01932,18,8,3602.58,0,Active Regulars
+C01933,21,8,1511.06,0,Active Regulars
+C01934,19,4,1476.21,0,Active Regulars
+C01935,13,12,3400.79,0,Active Regulars
+C01936,28,14,3816.25,0,Active Regulars
+C01937,10,41,12531.19,2,Champions
+C01938,350,1,76.86,1,Lapsed / Low-Value
+C01939,5,9,2192.16,0,Active Regulars
+C01940,12,24,7227.05,2,Champions
+C01941,10,31,12576.67,2,Champions
+C01943,4,32,12546.47,2,Champions
+C01944,67,6,2588.46,3,At-Risk (Fading Regulars)
+C01945,88,9,2275.96,3,At-Risk (Fading Regulars)
+C01946,182,13,6511.97,3,At-Risk (Fading Regulars)
+C01947,9,5,2091.25,0,Active Regulars
+C01948,59,4,3706.2200000000003,3,At-Risk (Fading Regulars)
+C01950,79,21,7367.22,2,Champions
+C01951,3,4,1459.57,0,Active Regulars
+C01952,72,1,414.3,1,Lapsed / Low-Value
+C01953,99,3,628.56,1,Lapsed / Low-Value
+C01954,5,31,11698.36,2,Champions
+C01955,302,1,81.84,1,Lapsed / Low-Value
+C01957,12,13,3814.3900000000003,0,Active Regulars
+C01958,2,18,4477.79,2,Champions
+C01959,162,4,1822.55,3,At-Risk (Fading Regulars)
+C01961,118,16,5337.7,3,At-Risk (Fading Regulars)
+C01962,5,19,7494.42,2,Champions
+C01964,11,25,7387.28,2,Champions
+C01966,200,1,66.65,1,Lapsed / Low-Value
+C01968,84,2,324.6,1,Lapsed / Low-Value
+C01969,255,2,348.49,1,Lapsed / Low-Value
+C01971,52,6,2224.91,3,At-Risk (Fading Regulars)
+C01972,2,35,14218.82,2,Champions
+C01973,33,15,3342.17,0,Active Regulars
+C01974,104,14,4865.82,3,At-Risk (Fading Regulars)
+C01975,300,1,131.28,1,Lapsed / Low-Value
+C01976,110,7,3792.1400000000003,3,At-Risk (Fading Regulars)
+C01977,12,5,1852.16,0,Active Regulars
+C01978,12,13,4154.17,0,Active Regulars
+C01979,30,3,520.81,1,Lapsed / Low-Value
+C01980,88,2,1001.8299999999999,1,Lapsed / Low-Value
+C01982,4,41,20393.97,2,Champions
+C01983,5,35,14359.63,2,Champions
+C01984,8,7,1699.59,0,Active Regulars
+C01985,7,13,4623.2,0,Active Regulars
+C01986,139,1,219.99,1,Lapsed / Low-Value
+C01987,242,1,133.82,1,Lapsed / Low-Value
+C01988,168,20,7836.1900000000005,3,At-Risk (Fading Regulars)
+C01989,31,8,1568.22,0,Active Regulars
+C01990,341,1,280.06,1,Lapsed / Low-Value
+C01991,3,6,1393.64,0,Active Regulars
+C01992,23,4,790.06,0,Active Regulars
+C01993,135,24,5279.78,3,At-Risk (Fading Regulars)
+C01994,17,9,3521.36,0,Active Regulars
+C01995,55,3,2431.34,3,At-Risk (Fading Regulars)
+C01997,20,20,8998.130000000001,2,Champions
+C01998,19,6,1498.1799999999998,0,Active Regulars
+C02000,56,11,3673.45,3,At-Risk (Fading Regulars)
+C02001,33,30,9509.02,2,Champions
+C02002,28,13,3247.2,0,Active Regulars
+C02003,23,4,787.65,0,Active Regulars
+C02004,288,2,1782.66,3,At-Risk (Fading Regulars)
+C02005,285,4,956.31,3,At-Risk (Fading Regulars)
+C02006,16,12,3503.1200000000003,0,Active Regulars
+C02007,321,1,128.04,1,Lapsed / Low-Value
+C02008,264,1,534.93,1,Lapsed / Low-Value
+C02009,70,4,2811.2,3,At-Risk (Fading Regulars)
+C02010,114,2,425.35,1,Lapsed / Low-Value
+C02011,29,4,3032.84,0,Active Regulars
+C02013,1,20,7079.49,2,Champions
+C02015,271,6,2422.31,3,At-Risk (Fading Regulars)
+C02016,57,2,463.54999999999995,1,Lapsed / Low-Value
+C02017,40,12,4926.74,0,Active Regulars
+C02018,215,3,1219.44,3,At-Risk (Fading Regulars)
+C02019,13,14,4353.1,0,Active Regulars
+C02020,152,6,1130.68,3,At-Risk (Fading Regulars)
+C02021,164,5,1022.6700000000001,3,At-Risk (Fading Regulars)
+C02022,2,30,9359.76,2,Champions
+C02024,180,1,171.92,1,Lapsed / Low-Value
+C02025,129,4,2119.73,3,At-Risk (Fading Regulars)
+C02026,94,1,1489.42,1,Lapsed / Low-Value
+C02027,4,29,7165.57,2,Champions
+C02028,65,7,1164.87,3,At-Risk (Fading Regulars)
+C02029,280,2,415.16,1,Lapsed / Low-Value
+C02030,11,9,3154.59,0,Active Regulars
+C02031,15,12,4443.83,0,Active Regulars
+C02032,9,27,9204.300000000001,2,Champions
+C02033,34,17,5497.0199999999995,0,Active Regulars
+C02034,13,8,3073.1099999999997,0,Active Regulars
+C02035,36,9,4485.04,0,Active Regulars
+C02036,15,9,4847.389999999999,0,Active Regulars
+C02038,96,6,2001.45,3,At-Risk (Fading Regulars)
+C02039,154,23,8170.78,3,At-Risk (Fading Regulars)
+C02040,19,13,5884.3099999999995,0,Active Regulars
+C02042,23,2,804.28,1,Lapsed / Low-Value
+C02043,206,2,914.1800000000001,1,Lapsed / Low-Value
+C02044,18,10,1583.14,0,Active Regulars
+C02045,275,6,2212.64,3,At-Risk (Fading Regulars)
+C02046,84,6,1687.0900000000001,3,At-Risk (Fading Regulars)
+C02047,35,8,3863.71,0,Active Regulars
+C02048,19,16,3680.36,0,Active Regulars
+C02049,3,17,7432.82,2,Champions
+C02050,8,21,5625.82,2,Champions
+C02051,21,14,3888.12,0,Active Regulars
+C02052,13,16,5020.82,2,Champions
+C02053,57,10,4365.76,3,At-Risk (Fading Regulars)
+C02054,319,1,354.33,1,Lapsed / Low-Value
+C02055,223,1,320.53,1,Lapsed / Low-Value
+C02056,4,8,3880.87,0,Active Regulars
+C02057,24,7,1893.6200000000001,0,Active Regulars
+C02058,61,1,310.28,1,Lapsed / Low-Value
+C02059,5,4,1636.02,0,Active Regulars
+C02060,202,3,412.17,1,Lapsed / Low-Value
+C02061,312,3,633.8399999999999,1,Lapsed / Low-Value
+C02062,9,8,3241.4,0,Active Regulars
+C02063,5,4,1891.3200000000002,0,Active Regulars
+C02064,20,15,5644.360000000001,0,Active Regulars
+C02065,14,14,4719.63,0,Active Regulars
+C02066,3,22,8546.0,2,Champions
+C02068,16,8,2589.96,0,Active Regulars
+C02069,252,7,2548.39,3,At-Risk (Fading Regulars)
+C02070,12,3,1436.8600000000001,0,Active Regulars
+C02071,79,2,263.1,1,Lapsed / Low-Value
+C02072,94,20,4971.39,3,At-Risk (Fading Regulars)
+C02073,11,15,7487.17,2,Champions
+C02074,92,2,1459.6999999999998,3,At-Risk (Fading Regulars)
+C02076,2,7,2797.6,0,Active Regulars
+C02077,17,14,4113.29,0,Active Regulars
+C02078,24,7,1093.23,0,Active Regulars
+C02079,269,1,115.73,1,Lapsed / Low-Value
+C02080,12,8,2791.99,0,Active Regulars
+C02081,12,6,1043.85,0,Active Regulars
+C02082,101,17,9040.37,3,At-Risk (Fading Regulars)
+C02083,49,1,1187.42,1,Lapsed / Low-Value
+C02084,64,2,699.38,1,Lapsed / Low-Value
+C02085,68,4,1906.99,3,At-Risk (Fading Regulars)
+C02086,31,5,978.53,3,At-Risk (Fading Regulars)
+C02087,91,2,698.49,1,Lapsed / Low-Value
+C02088,77,29,6387.66,2,Champions
+C02089,91,21,6046.95,3,At-Risk (Fading Regulars)
+C02090,9,15,6489.16,2,Champions
+C02091,2,29,10164.619999999999,2,Champions
+C02093,1,34,8289.55,2,Champions
+C02094,292,1,498.89,1,Lapsed / Low-Value
+C02095,8,2,1539.68,0,Active Regulars
+C02096,7,14,4103.54,0,Active Regulars
+C02097,6,30,9938.98,2,Champions
+C02098,2,28,10827.37,2,Champions
+C02100,77,2,1424.18,3,At-Risk (Fading Regulars)
+C02101,29,14,4837.1,0,Active Regulars
+C02102,48,14,3838.6099999999997,0,Active Regulars
+C02103,364,1,224.51,1,Lapsed / Low-Value
+C02104,32,7,2080.02,0,Active Regulars
+C02105,46,2,525.12,1,Lapsed / Low-Value
+C02106,68,43,14829.26,2,Champions
+C02107,154,9,2115.14,3,At-Risk (Fading Regulars)
+C02108,150,6,851.7,3,At-Risk (Fading Regulars)
+C02109,9,2,221.32,1,Lapsed / Low-Value
+C02110,12,17,7078.3099999999995,2,Champions
+C02111,1,10,3420.53,0,Active Regulars
+C02112,4,12,4483.71,0,Active Regulars
+C02113,36,13,3589.25,0,Active Regulars
+C02115,83,12,3220.81,3,At-Risk (Fading Regulars)
+C02116,241,4,2058.2,3,At-Risk (Fading Regulars)
+C02117,138,8,2227.44,3,At-Risk (Fading Regulars)
+C02118,53,2,819.51,1,Lapsed / Low-Value
+C02119,84,9,3812.62,3,At-Risk (Fading Regulars)
+C02120,143,1,316.68,1,Lapsed / Low-Value
+C02121,1,12,3612.92,0,Active Regulars
+C02122,3,25,9744.34,2,Champions
+C02123,178,1,328.39,1,Lapsed / Low-Value
+C02124,6,3,609.76,0,Active Regulars
+C02125,37,5,839.06,3,At-Risk (Fading Regulars)
+C02126,15,4,1523.46,0,Active Regulars
+C02127,264,2,310.85,1,Lapsed / Low-Value
+C02128,26,12,3078.15,0,Active Regulars
+C02129,309,3,491.66,1,Lapsed / Low-Value
+C02130,282,3,1207.35,3,At-Risk (Fading Regulars)
+C02131,49,3,999.81,3,At-Risk (Fading Regulars)
+C02132,44,6,1448.83,3,At-Risk (Fading Regulars)
+C02133,76,4,1284.76,3,At-Risk (Fading Regulars)
+C02134,13,8,1545.64,0,Active Regulars
+C02135,201,8,2647.7799999999997,3,At-Risk (Fading Regulars)
+C02136,11,20,6756.53,2,Champions
+C02137,349,1,130.21,1,Lapsed / Low-Value
+C02138,2,70,28005.61,2,Champions
+C02139,158,3,2299.95,3,At-Risk (Fading Regulars)
+C02140,76,7,1485.9,3,At-Risk (Fading Regulars)
+C02141,21,7,1958.41,0,Active Regulars
+C02142,147,3,874.1099999999999,1,Lapsed / Low-Value
+C02143,4,12,3655.99,0,Active Regulars
+C02144,21,9,2388.3599999999997,0,Active Regulars
+C02145,339,2,1699.81,3,At-Risk (Fading Regulars)
+C02146,348,1,221.97,1,Lapsed / Low-Value
+C02147,15,14,4341.09,0,Active Regulars
+C02148,12,6,1426.3,0,Active Regulars
+C02150,7,28,9061.22,2,Champions
+C02152,19,4,1633.52,0,Active Regulars
+C02153,43,7,2986.4700000000003,3,At-Risk (Fading Regulars)
+C02154,4,20,7251.51,2,Champions
+C02156,30,17,5987.3,2,Champions
+C02157,111,13,3259.2400000000002,3,At-Risk (Fading Regulars)
+C02158,168,20,5675.85,3,At-Risk (Fading Regulars)
+C02159,6,41,13719.46,2,Champions
+C02160,1,8,1736.1100000000001,0,Active Regulars
+C02161,293,4,1072.43,3,At-Risk (Fading Regulars)
+C02162,41,20,7276.62,2,Champions
+C02164,90,4,1396.8,3,At-Risk (Fading Regulars)
+C02165,95,3,1072.85,3,At-Risk (Fading Regulars)
+C02166,14,15,5871.98,2,Champions
+C02167,32,12,6052.29,0,Active Regulars
+C02168,8,13,4460.73,0,Active Regulars
+C02169,177,24,10107.14,3,At-Risk (Fading Regulars)
+C02170,92,1,151.57,1,Lapsed / Low-Value
+C02171,165,2,602.5799999999999,1,Lapsed / Low-Value
+C02172,142,3,665.14,1,Lapsed / Low-Value
+C02173,23,9,2889.52,0,Active Regulars
+C02175,296,7,1302.24,3,At-Risk (Fading Regulars)
+C02177,52,6,1314.68,3,At-Risk (Fading Regulars)
+C02178,174,5,743.31,3,At-Risk (Fading Regulars)
+C02179,3,36,10508.72,2,Champions
+C02180,170,1,523.94,1,Lapsed / Low-Value
+C02181,44,8,1142.8,3,At-Risk (Fading Regulars)
+C02182,100,7,1815.17,3,At-Risk (Fading Regulars)
+C02184,14,11,3129.04,0,Active Regulars
+C02185,63,9,3732.73,3,At-Risk (Fading Regulars)
+C02186,25,12,5067.16,0,Active Regulars
+C02188,7,27,8678.869999999999,2,Champions
+C02189,28,6,2634.03,0,Active Regulars
+C02190,2,21,7295.51,2,Champions
+C02191,276,2,701.72,1,Lapsed / Low-Value
+C02192,173,4,848.82,3,At-Risk (Fading Regulars)
+C02193,158,8,2349.63,3,At-Risk (Fading Regulars)
+C02194,48,6,1767.76,3,At-Risk (Fading Regulars)
+C02195,27,7,2461.1,0,Active Regulars
+C02196,11,6,2895.74,0,Active Regulars
+C02197,1,39,11651.82,2,Champions
+C02198,133,4,1122.95,3,At-Risk (Fading Regulars)
+C02199,46,19,7945.07,2,Champions
+C02200,1,120,36012.94,2,Champions
+C02201,1,78,27248.0,2,Champions
+C02202,197,1,115.32,1,Lapsed / Low-Value
+C02203,13,23,7313.12,2,Champions
+C02204,5,13,4490.39,0,Active Regulars
+C02205,4,25,7700.87,2,Champions
+C02207,19,11,4836.46,0,Active Regulars
+C02208,257,4,1525.4,3,At-Risk (Fading Regulars)
+C02211,7,6,1960.47,0,Active Regulars
+C02212,18,8,2512.05,0,Active Regulars
+C02214,14,4,1545.67,0,Active Regulars
+C02215,7,14,4517.9400000000005,0,Active Regulars
+C02216,6,27,6681.1900000000005,2,Champions
+C02217,243,8,2753.9900000000002,3,At-Risk (Fading Regulars)
+C02219,27,12,3269.35,0,Active Regulars
+C02220,43,3,998.22,3,At-Risk (Fading Regulars)
+C02221,286,2,356.42,1,Lapsed / Low-Value
+C02222,263,1,383.4,1,Lapsed / Low-Value
+C02223,6,31,9070.9,2,Champions
+C02225,298,7,2217.57,3,At-Risk (Fading Regulars)
+C02226,148,2,500.96,1,Lapsed / Low-Value
+C02228,23,5,873.79,0,Active Regulars
+C02229,1,10,3148.96,0,Active Regulars
+C02230,281,4,1077.6799999999998,3,At-Risk (Fading Regulars)
+C02231,70,8,1526.46,3,At-Risk (Fading Regulars)
+C02232,61,2,496.82,1,Lapsed / Low-Value
+C02233,11,11,4021.17,0,Active Regulars
+C02234,273,2,921.4100000000001,1,Lapsed / Low-Value
+C02235,142,1,148.82,1,Lapsed / Low-Value
+C02236,250,6,1462.69,3,At-Risk (Fading Regulars)
+C02237,20,24,7319.65,2,Champions
+C02238,5,13,6848.26,2,Champions
+C02239,16,2,335.14,1,Lapsed / Low-Value
+C02240,10,9,3517.46,0,Active Regulars
+C02241,34,24,11575.31,2,Champions
+C02242,175,11,7188.969999999999,3,At-Risk (Fading Regulars)
+C02243,37,2,677.52,1,Lapsed / Low-Value
+C02244,258,4,771.4300000000001,1,Lapsed / Low-Value
+C02245,17,7,2751.45,0,Active Regulars
+C02246,58,8,2751.02,3,At-Risk (Fading Regulars)
+C02247,262,3,811.58,1,Lapsed / Low-Value
+C02248,50,1,390.42,1,Lapsed / Low-Value
+C02249,54,12,5481.0,3,At-Risk (Fading Regulars)
+C02250,8,14,4092.23,0,Active Regulars
+C02251,24,5,1049.13,0,Active Regulars
+C02252,1,9,2003.3700000000001,0,Active Regulars
+C02253,235,5,1479.75,3,At-Risk (Fading Regulars)
+C02254,11,4,1204.95,0,Active Regulars
+C02255,34,1,88.52,1,Lapsed / Low-Value
+C02256,116,47,13458.27,2,Champions
+C02257,90,9,1940.02,3,At-Risk (Fading Regulars)
+C02258,2,35,12183.06,2,Champions
+C02259,5,14,5341.02,2,Champions
+C02260,191,1,152.68,1,Lapsed / Low-Value
+C02261,1,34,11983.24,2,Champions
+C02262,25,5,3663.3,0,Active Regulars
+C02263,195,7,2163.08,3,At-Risk (Fading Regulars)
+C02264,38,9,2847.6,0,Active Regulars
+C02265,177,4,1072.46,3,At-Risk (Fading Regulars)
+C02266,1,26,8657.15,2,Champions
+C02267,39,4,1175.92,3,At-Risk (Fading Regulars)
+C02268,135,4,1377.19,3,At-Risk (Fading Regulars)
+C02269,1,12,3807.54,0,Active Regulars
+C02270,5,78,25355.57,2,Champions
+C02271,2,19,7681.86,2,Champions
+C02273,60,8,3333.4700000000003,3,At-Risk (Fading Regulars)
+C02274,129,2,712.94,1,Lapsed / Low-Value
+C02275,3,45,13582.039999999999,2,Champions
+C02276,3,30,10457.4,2,Champions
+C02277,291,1,132.88,1,Lapsed / Low-Value
+C02278,355,1,194.17,1,Lapsed / Low-Value
+C02279,313,2,604.24,1,Lapsed / Low-Value
+C02280,315,3,1554.3899999999999,3,At-Risk (Fading Regulars)
+C02281,25,5,1403.08,0,Active Regulars
+C02282,40,13,5270.18,0,Active Regulars
+C02283,271,2,443.64,1,Lapsed / Low-Value
+C02284,334,1,71.5,1,Lapsed / Low-Value
+C02285,87,6,1481.22,3,At-Risk (Fading Regulars)
+C02286,67,12,6487.839999999999,3,At-Risk (Fading Regulars)
+C02287,8,29,8847.26,2,Champions
+C02289,10,20,5883.63,2,Champions
+C02290,6,21,8096.69,2,Champions
+C02291,42,15,4641.4,0,Active Regulars
+C02292,8,5,1215.15,0,Active Regulars
+C02293,281,2,338.02,1,Lapsed / Low-Value
+C02294,1,34,11184.69,2,Champions
+C02296,197,3,874.59,1,Lapsed / Low-Value
+C02297,233,5,1816.58,3,At-Risk (Fading Regulars)
+C02298,21,6,1727.62,0,Active Regulars
+C02299,229,1,256.37,1,Lapsed / Low-Value
+C02300,24,7,3007.3900000000003,0,Active Regulars
+C02301,20,4,1069.98,0,Active Regulars
+C02302,111,2,915.17,1,Lapsed / Low-Value
+C02303,15,21,4734.3,2,Champions
+C02304,46,17,4660.08,0,Active Regulars
+C02305,27,7,1996.97,0,Active Regulars
+C02306,43,16,5205.52,0,Active Regulars
+C02307,56,4,809.72,3,At-Risk (Fading Regulars)
+C02308,274,2,454.28,1,Lapsed / Low-Value
+C02309,5,21,6996.86,2,Champions
+C02310,77,7,2679.0699999999997,3,At-Risk (Fading Regulars)
+C02311,16,4,681.13,0,Active Regulars
+C02312,142,2,1672.1399999999999,3,At-Risk (Fading Regulars)
+C02313,80,20,4715.52,3,At-Risk (Fading Regulars)
+C02314,19,11,3959.23,0,Active Regulars
+C02316,32,9,1992.76,0,Active Regulars
+C02318,3,15,5936.0599999999995,2,Champions
+C02319,19,21,7724.32,2,Champions
+C02320,260,2,853.62,1,Lapsed / Low-Value
+C02321,117,7,1569.15,3,At-Risk (Fading Regulars)
+C02322,5,18,6360.46,2,Champions
+C02323,1,71,23420.48,2,Champions
+C02324,77,10,3074.7599999999998,3,At-Risk (Fading Regulars)
+C02325,57,4,3381.98,3,At-Risk (Fading Regulars)
+C02326,156,10,4543.65,3,At-Risk (Fading Regulars)
+C02327,3,13,4643.92,2,Champions
+C02328,299,3,686.71,1,Lapsed / Low-Value
+C02329,50,8,3027.42,3,At-Risk (Fading Regulars)
+C02330,117,6,1651.59,3,At-Risk (Fading Regulars)
+C02331,10,8,2347.85,0,Active Regulars
+C02332,89,4,694.94,1,Lapsed / Low-Value
+C02333,9,5,1004.21,0,Active Regulars
+C02334,106,9,2821.09,3,At-Risk (Fading Regulars)
+C02335,76,4,674.31,1,Lapsed / Low-Value
+C02337,218,1,1186.25,1,Lapsed / Low-Value
+C02338,316,1,300.89,1,Lapsed / Low-Value
+C02339,50,5,1109.04,3,At-Risk (Fading Regulars)
+C02340,91,4,1277.95,3,At-Risk (Fading Regulars)
+C02341,281,1,403.2,1,Lapsed / Low-Value
+C02342,14,13,4340.06,0,Active Regulars
+C02343,47,1,134.57,1,Lapsed / Low-Value
+C02344,29,12,3725.62,0,Active Regulars
+C02345,237,1,479.95,1,Lapsed / Low-Value
+C02346,13,19,6710.72,2,Champions
+C02347,1,39,11965.12,2,Champions
+C02348,4,8,2072.29,0,Active Regulars
+C02350,143,4,1297.1399999999999,3,At-Risk (Fading Regulars)
+C02351,141,1,158.74,1,Lapsed / Low-Value
+C02352,57,7,2091.69,3,At-Risk (Fading Regulars)
+C02353,52,5,820.2,3,At-Risk (Fading Regulars)
+C02354,15,16,6090.68,2,Champions
+C02355,2,18,6412.49,2,Champions
+C02356,273,1,94.12,1,Lapsed / Low-Value
+C02357,19,8,1231.17,0,Active Regulars
+C02358,204,4,1733.96,3,At-Risk (Fading Regulars)
+C02359,11,7,2148.19,0,Active Regulars
+C02360,11,4,1226.66,0,Active Regulars
+C02361,11,16,4460.6,0,Active Regulars
+C02363,97,2,391.02,1,Lapsed / Low-Value
+C02364,9,3,851.09,0,Active Regulars
+C02365,248,1,146.12,1,Lapsed / Low-Value
+C02366,168,2,715.58,1,Lapsed / Low-Value
+C02367,72,30,10915.77,2,Champions
+C02368,74,2,411.68,1,Lapsed / Low-Value
+C02370,4,18,6796.15,2,Champions
+C02371,51,6,1349.93,3,At-Risk (Fading Regulars)
+C02372,16,33,14527.63,2,Champions
+C02373,3,36,14276.84,2,Champions
+C02374,143,5,2989.0499999999997,3,At-Risk (Fading Regulars)
+C02375,11,27,7379.51,2,Champions
+C02376,7,19,7681.36,2,Champions
+C02377,116,2,739.01,1,Lapsed / Low-Value
+C02378,246,1,527.27,1,Lapsed / Low-Value
+C02379,127,3,1557.75,3,At-Risk (Fading Regulars)
+C02380,4,19,5455.25,2,Champions
+C02382,74,6,2139.0299999999997,3,At-Risk (Fading Regulars)
+C02383,82,9,1873.91,3,At-Risk (Fading Regulars)
+C02384,12,26,9043.460000000001,2,Champions
+C02385,120,8,1981.06,3,At-Risk (Fading Regulars)
+C02386,258,1,64.28,1,Lapsed / Low-Value
+C02387,2,39,15265.23,2,Champions
+C02388,4,4,1140.42,0,Active Regulars
+C02389,3,7,1929.97,0,Active Regulars
+C02390,228,1,369.67,1,Lapsed / Low-Value
+C02391,8,29,10311.95,2,Champions
+C02392,53,7,1423.45,3,At-Risk (Fading Regulars)
+C02393,35,4,2981.9,3,At-Risk (Fading Regulars)
+C02394,75,16,4550.95,3,At-Risk (Fading Regulars)
+C02396,31,12,2853.75,0,Active Regulars
+C02397,202,2,694.26,1,Lapsed / Low-Value
+C02398,41,9,2589.0699999999997,3,At-Risk (Fading Regulars)
+C02399,7,17,6414.25,2,Champions
+C02400,200,3,464.8,1,Lapsed / Low-Value
+C02401,12,21,7934.62,2,Champions
+C02402,124,7,3759.59,3,At-Risk (Fading Regulars)
+C02403,11,43,17141.55,2,Champions
+C02404,61,12,5875.06,3,At-Risk (Fading Regulars)
+C02405,60,7,1270.27,3,At-Risk (Fading Regulars)
+C02406,30,6,2198.06,0,Active Regulars
+C02407,99,2,402.65,1,Lapsed / Low-Value
+C02408,3,19,6101.01,2,Champions
+C02410,11,8,2106.11,0,Active Regulars
+C02411,5,37,11809.9,2,Champions
+C02412,282,7,1969.53,3,At-Risk (Fading Regulars)
+C02413,31,2,1349.27,3,At-Risk (Fading Regulars)
+C02414,80,14,4036.43,3,At-Risk (Fading Regulars)
+C02415,9,17,5461.82,2,Champions
+C02416,209,7,3659.27,3,At-Risk (Fading Regulars)
+C02417,13,24,6665.01,2,Champions
+C02418,152,7,3540.5299999999997,3,At-Risk (Fading Regulars)
+C02419,12,17,4122.04,0,Active Regulars
+C02420,60,17,6670.02,3,At-Risk (Fading Regulars)
+C02421,4,16,7876.63,2,Champions
+C02422,58,4,691.64,3,At-Risk (Fading Regulars)
+C02423,20,17,7707.9400000000005,2,Champions
+C02424,11,20,5844.41,2,Champions
+C02425,23,28,9433.89,2,Champions
+C02426,1,26,7682.45,2,Champions
+C02427,45,3,1394.0900000000001,3,At-Risk (Fading Regulars)
+C02428,186,1,136.96,1,Lapsed / Low-Value
+C02430,2,9,2175.73,0,Active Regulars
+C02431,37,5,1962.09,3,At-Risk (Fading Regulars)
+C02432,13,11,3662.41,0,Active Regulars
+C02433,11,3,815.26,0,Active Regulars
+C02434,122,5,2364.41,3,At-Risk (Fading Regulars)
+C02435,272,4,1539.6699999999998,3,At-Risk (Fading Regulars)
+C02436,2,7,2860.19,0,Active Regulars
+C02437,2,18,7747.8,2,Champions
+C02439,10,13,3956.67,0,Active Regulars
+C02440,308,5,1804.8999999999999,3,At-Risk (Fading Regulars)
+C02441,65,2,406.24,1,Lapsed / Low-Value
+C02442,18,13,3555.0,0,Active Regulars
+C02443,6,8,2352.55,0,Active Regulars
+C02444,154,7,2376.66,3,At-Risk (Fading Regulars)
+C02445,2,23,8306.67,2,Champions
+C02446,33,1,522.35,1,Lapsed / Low-Value
+C02447,10,12,4537.87,0,Active Regulars
+C02448,3,21,6466.55,2,Champions
+C02449,312,1,546.18,1,Lapsed / Low-Value
+C02450,118,5,3329.65,3,At-Risk (Fading Regulars)
+C02451,139,6,1601.96,3,At-Risk (Fading Regulars)
+C02452,11,7,1993.19,0,Active Regulars
+C02453,2,55,20773.87,2,Champions
+C02454,299,9,2445.22,3,At-Risk (Fading Regulars)
+C02455,10,26,7497.85,2,Champions
+C02456,240,2,590.36,1,Lapsed / Low-Value
+C02457,2,42,14593.22,2,Champions
+C02459,14,15,5797.76,2,Champions
+C02460,121,5,996.37,3,At-Risk (Fading Regulars)
+C02461,285,1,181.81,1,Lapsed / Low-Value
+C02462,1,12,5946.52,2,Champions
+C02463,329,2,678.37,1,Lapsed / Low-Value
+C02464,16,8,6560.41,0,Active Regulars
+C02465,64,10,3114.6,3,At-Risk (Fading Regulars)
+C02466,11,11,5288.75,0,Active Regulars
+C02467,256,1,367.14,1,Lapsed / Low-Value
+C02468,12,11,2875.4,0,Active Regulars
+C02469,175,5,1671.4499999999998,3,At-Risk (Fading Regulars)
+C02470,13,9,2680.79,0,Active Regulars
+C02471,67,3,1216.6399999999999,3,At-Risk (Fading Regulars)
+C02472,21,3,1660.7399999999998,0,Active Regulars
+C02473,7,6,1873.23,0,Active Regulars
+C02474,108,18,4337.52,3,At-Risk (Fading Regulars)
+C02475,7,19,5403.01,2,Champions
+C02476,2,45,16136.71,2,Champions
+C02477,41,7,1922.95,3,At-Risk (Fading Regulars)
+C02478,44,5,1585.83,3,At-Risk (Fading Regulars)
+C02479,28,19,7115.74,2,Champions
+C02480,304,4,1068.49,3,At-Risk (Fading Regulars)
+C02481,74,11,3760.84,3,At-Risk (Fading Regulars)
+C02482,160,13,4411.37,3,At-Risk (Fading Regulars)
+C02483,13,30,7486.9,2,Champions
+C02484,68,5,1036.99,3,At-Risk (Fading Regulars)
+C02485,183,2,925.22,1,Lapsed / Low-Value
+C02486,11,21,7521.89,2,Champions
+C02487,4,20,8556.28,2,Champions
+C02488,37,5,1631.22,3,At-Risk (Fading Regulars)
+C02489,71,9,2130.37,3,At-Risk (Fading Regulars)
+C02490,10,32,9633.39,2,Champions
+C02491,7,13,3914.94,0,Active Regulars
+C02492,37,16,6329.06,0,Active Regulars
+C02495,46,7,2932.83,3,At-Risk (Fading Regulars)
+C02496,328,1,75.04,1,Lapsed / Low-Value
+C02497,264,3,1967.29,3,At-Risk (Fading Regulars)
+C02498,1,4,929.56,0,Active Regulars
+C02499,28,8,1947.18,0,Active Regulars
+C02500,23,8,4801.07,0,Active Regulars
+C02501,26,12,4563.92,0,Active Regulars
+C02502,279,3,964.94,1,Lapsed / Low-Value
+C02503,46,9,2076.64,3,At-Risk (Fading Regulars)
+C02504,8,12,8588.39,2,Champions
+C02505,12,28,9886.25,2,Champions
+C02506,18,18,8342.92,2,Champions
+C02507,283,3,1017.0400000000001,1,Lapsed / Low-Value
+C02508,71,2,877.6800000000001,1,Lapsed / Low-Value
+C02509,122,8,1815.69,3,At-Risk (Fading Regulars)
+C02511,39,7,2453.9500000000003,3,At-Risk (Fading Regulars)
+C02513,14,36,13737.460000000001,2,Champions
+C02514,3,6,2758.96,0,Active Regulars
+C02515,112,3,871.11,1,Lapsed / Low-Value
+C02516,296,1,422.36,1,Lapsed / Low-Value
+C02517,12,5,1486.2600000000002,0,Active Regulars
+C02518,12,16,5555.91,2,Champions
+C02519,14,17,5820.6,2,Champions
+C02520,1,12,2821.46,0,Active Regulars
+C02521,107,2,120.06,1,Lapsed / Low-Value
+C02522,9,29,9023.22,2,Champions
+C02523,191,4,1213.71,3,At-Risk (Fading Regulars)
+C02525,7,36,10642.56,2,Champions
+C02526,139,1,600.99,1,Lapsed / Low-Value
+C02527,3,25,10678.9,2,Champions
+C02528,275,1,488.75,1,Lapsed / Low-Value
+C02530,34,3,860.48,3,At-Risk (Fading Regulars)
+C02531,24,4,915.7,0,Active Regulars
+C02532,2,46,13541.710000000001,2,Champions
+C02533,2,3,957.02,0,Active Regulars
+C02534,55,9,2932.2799999999997,3,At-Risk (Fading Regulars)
+C02535,40,8,3986.45,0,Active Regulars
+C02536,9,10,2389.84,0,Active Regulars
+C02537,13,36,11297.26,2,Champions
+C02538,313,6,1452.97,3,At-Risk (Fading Regulars)
+C02539,26,16,4298.09,0,Active Regulars
+C02540,11,21,6284.13,2,Champions
+C02541,3,9,4406.3,0,Active Regulars
+C02542,10,9,1415.89,0,Active Regulars
+C02543,232,4,1164.9099999999999,3,At-Risk (Fading Regulars)
+C02544,3,23,7090.4,2,Champions
+C02545,18,8,4296.320000000001,0,Active Regulars
+C02546,140,4,594.74,1,Lapsed / Low-Value
+C02547,4,12,2574.78,0,Active Regulars
+C02548,24,4,1201.71,0,Active Regulars
+C02549,144,2,321.90999999999997,1,Lapsed / Low-Value
+C02550,208,8,4557.0599999999995,3,At-Risk (Fading Regulars)
+C02551,117,6,3306.0,3,At-Risk (Fading Regulars)
+C02554,287,1,184.99,1,Lapsed / Low-Value
+C02555,18,7,1608.93,0,Active Regulars
+C02556,96,3,1926.83,3,At-Risk (Fading Regulars)
+C02558,360,1,307.94,1,Lapsed / Low-Value
+C02559,111,8,1770.4,3,At-Risk (Fading Regulars)
+C02560,68,2,983.25,1,Lapsed / Low-Value
+C02561,27,11,4186.1,0,Active Regulars
+C02562,9,13,6153.5199999999995,2,Champions
+C02563,9,10,2892.42,0,Active Regulars
+C02564,2,10,4932.91,0,Active Regulars
+C02565,5,15,3771.59,0,Active Regulars
+C02566,114,7,4520.82,3,At-Risk (Fading Regulars)
+C02567,19,9,2579.7200000000003,0,Active Regulars
+C02568,32,3,1407.81,3,At-Risk (Fading Regulars)
+C02569,143,9,2390.76,3,At-Risk (Fading Regulars)
+C02570,272,1,261.66,1,Lapsed / Low-Value
+C02571,12,13,3765.39,0,Active Regulars
+C02572,37,11,3312.94,0,Active Regulars
+C02576,56,8,1937.52,3,At-Risk (Fading Regulars)
+C02577,125,2,531.28,1,Lapsed / Low-Value
+C02578,8,27,7166.4800000000005,2,Champions
+C02579,138,3,1166.75,3,At-Risk (Fading Regulars)
+C02580,198,1,492.22,1,Lapsed / Low-Value
+C02581,210,14,4122.94,3,At-Risk (Fading Regulars)
+C02582,12,5,2885.6,0,Active Regulars
+C02584,9,31,10475.0,2,Champions
+C02586,2,10,2322.0,0,Active Regulars
+C02587,7,8,3130.51,0,Active Regulars
+C02589,11,7,5007.58,0,Active Regulars
+C02590,40,6,2762.09,3,At-Risk (Fading Regulars)
+C02591,47,12,3088.85,3,At-Risk (Fading Regulars)
+C02592,16,5,3803.7200000000003,0,Active Regulars
+C02593,26,9,2725.02,0,Active Regulars
+C02594,10,7,3967.17,0,Active Regulars
+C02595,13,22,7629.25,2,Champions
+C02596,110,8,2124.86,3,At-Risk (Fading Regulars)
+C02597,12,7,2723.9,0,Active Regulars
+C02598,252,3,1833.53,3,At-Risk (Fading Regulars)
+C02599,13,14,3774.78,0,Active Regulars
+C02601,31,4,667.79,3,At-Risk (Fading Regulars)
+C02602,10,65,23649.21,2,Champions
+C02603,10,12,3182.23,0,Active Regulars
+C02604,1,12,6563.68,2,Champions
+C02605,278,1,171.62,1,Lapsed / Low-Value
+C02606,3,14,4533.74,2,Champions
+C02607,55,13,3226.17,3,At-Risk (Fading Regulars)
+C02608,362,1,139.02,1,Lapsed / Low-Value
+C02611,6,8,4716.34,0,Active Regulars
+C02612,180,2,905.6,1,Lapsed / Low-Value
+C02613,55,10,2797.28,3,At-Risk (Fading Regulars)
+C02614,9,33,9417.8,2,Champions
+C02615,10,9,3383.96,0,Active Regulars
+C02616,82,6,2918.17,3,At-Risk (Fading Regulars)
+C02618,265,7,2255.25,3,At-Risk (Fading Regulars)
+C02620,20,1,185.36,1,Lapsed / Low-Value
+C02621,4,12,3295.76,0,Active Regulars
+C02622,4,14,4839.35,2,Champions
+C02623,25,12,4896.51,0,Active Regulars
+C02624,195,5,2231.98,3,At-Risk (Fading Regulars)
+C02625,4,23,6464.7,2,Champions
+C02627,18,11,3128.28,0,Active Regulars
+C02628,210,14,3382.27,3,At-Risk (Fading Regulars)
+C02629,82,2,560.64,1,Lapsed / Low-Value
+C02630,9,6,2722.65,0,Active Regulars
+C02631,254,5,1157.14,3,At-Risk (Fading Regulars)
+C02632,45,13,3953.17,0,Active Regulars
+C02633,5,30,9090.12,2,Champions
+C02634,1,9,3664.01,0,Active Regulars
+C02635,19,20,12097.74,2,Champions
+C02636,4,3,665.65,0,Active Regulars
+C02637,1,5,1365.16,0,Active Regulars
+C02638,20,10,4440.08,0,Active Regulars
+C02639,128,1,135.77,1,Lapsed / Low-Value
+C02640,19,5,1488.56,0,Active Regulars
+C02641,7,20,10075.52,2,Champions
+C02642,8,5,3613.23,0,Active Regulars
+C02643,2,12,5579.36,2,Champions
+C02644,8,41,9369.15,2,Champions
+C02645,152,27,11313.7,2,Champions
+C02646,3,55,16669.31,2,Champions
+C02647,1,30,10939.85,2,Champions
+C02648,277,1,410.78,1,Lapsed / Low-Value
+C02649,14,1,1346.22,0,Active Regulars
+C02650,64,4,1189.87,3,At-Risk (Fading Regulars)
+C02651,4,27,7648.2,2,Champions
+C02652,53,4,2293.5899999999997,3,At-Risk (Fading Regulars)
+C02653,31,5,1037.6399999999999,3,At-Risk (Fading Regulars)
+C02654,2,53,19234.54,2,Champions
+C02655,112,6,1095.6,3,At-Risk (Fading Regulars)
+C02656,3,17,5207.22,2,Champions
+C02657,18,13,4628.39,0,Active Regulars
+C02659,24,19,6895.6900000000005,2,Champions
+C02662,149,5,924.01,3,At-Risk (Fading Regulars)
+C02663,115,4,2973.7200000000003,3,At-Risk (Fading Regulars)
+C02664,2,14,5740.64,2,Champions
+C02665,43,14,3967.58,0,Active Regulars
+C02666,325,1,213.29,1,Lapsed / Low-Value
+C02667,236,1,1156.85,1,Lapsed / Low-Value
+C02668,16,9,2053.83,0,Active Regulars
+C02669,20,5,1471.8200000000002,0,Active Regulars
+C02670,323,1,373.77,1,Lapsed / Low-Value
+C02671,282,3,795.8399999999999,1,Lapsed / Low-Value
+C02672,46,4,745.54,3,At-Risk (Fading Regulars)
+C02673,1,14,7184.15,2,Champions
+C02674,107,1,38.08,1,Lapsed / Low-Value
+C02675,6,13,5454.48,2,Champions
+C02676,259,1,252.4,1,Lapsed / Low-Value
+C02677,8,4,1703.04,0,Active Regulars
+C02678,65,1,660.58,1,Lapsed / Low-Value
+C02679,1,18,5746.02,2,Champions
+C02680,236,2,215.44,1,Lapsed / Low-Value
+C02681,43,16,6924.67,2,Champions
+C02682,5,39,11676.06,2,Champions
+C02684,67,15,6145.26,3,At-Risk (Fading Regulars)
+C02685,214,3,1462.01,3,At-Risk (Fading Regulars)
+C02686,105,1,962.33,1,Lapsed / Low-Value
+C02687,13,10,4100.35,0,Active Regulars
+C02688,3,58,21814.84,2,Champions
+C02689,152,21,8185.53,3,At-Risk (Fading Regulars)
+C02690,298,6,2700.6400000000003,3,At-Risk (Fading Regulars)
+C02691,2,12,2457.38,0,Active Regulars
+C02692,33,5,1312.19,3,At-Risk (Fading Regulars)
+C02693,12,28,9609.05,2,Champions
+C02694,61,7,3702.6,3,At-Risk (Fading Regulars)
+C02695,38,11,3706.68,0,Active Regulars
+C02696,92,3,1259.01,3,At-Risk (Fading Regulars)
+C02697,4,27,8861.07,2,Champions
+C02698,261,3,1972.7700000000002,3,At-Risk (Fading Regulars)
+C02699,67,4,970.53,3,At-Risk (Fading Regulars)
+C02700,9,38,12211.01,2,Champions
+C02701,9,52,17367.45,2,Champions
+C02702,14,10,3906.0,0,Active Regulars
+C02703,126,11,3019.4700000000003,3,At-Risk (Fading Regulars)
+C02704,7,46,19601.55,2,Champions
+C02705,12,11,4757.51,0,Active Regulars
+C02706,182,3,1028.51,3,At-Risk (Fading Regulars)
+C02707,34,11,3011.33,0,Active Regulars
+C02708,215,2,386.02,1,Lapsed / Low-Value
+C02709,11,25,6509.34,2,Champions
+C02710,13,23,6709.67,2,Champions
+C02711,190,2,459.84,1,Lapsed / Low-Value
+C02712,1,5,1554.31,0,Active Regulars
+C02713,74,1,172.61,1,Lapsed / Low-Value
+C02714,64,11,3837.74,3,At-Risk (Fading Regulars)
+C02715,179,3,2081.79,3,At-Risk (Fading Regulars)
+C02716,158,24,8100.77,3,At-Risk (Fading Regulars)
+C02717,96,1,214.49,1,Lapsed / Low-Value
+C02718,3,107,35667.39,2,Champions
+C02719,59,7,1671.1100000000001,3,At-Risk (Fading Regulars)
+C02720,75,4,1118.6399999999999,3,At-Risk (Fading Regulars)
+C02722,295,4,1357.23,3,At-Risk (Fading Regulars)
+C02723,212,1,182.35,1,Lapsed / Low-Value
+C02724,8,6,1644.88,0,Active Regulars
+C02726,83,13,3445.79,3,At-Risk (Fading Regulars)
+C02727,211,4,3550.3900000000003,3,At-Risk (Fading Regulars)
+C02728,115,1,426.95,1,Lapsed / Low-Value
+C02729,84,38,13775.45,2,Champions
+C02732,163,3,1228.97,3,At-Risk (Fading Regulars)
+C02733,8,10,4475.16,0,Active Regulars
+C02734,29,7,1394.99,0,Active Regulars
+C02735,1,25,8215.03,2,Champions
+C02736,1,12,3827.04,0,Active Regulars
+C02737,226,10,1986.8799999999999,3,At-Risk (Fading Regulars)
+C02738,45,7,1467.13,3,At-Risk (Fading Regulars)
+C02739,79,4,734.45,3,At-Risk (Fading Regulars)
+C02740,1,18,4352.85,2,Champions
+C02741,12,6,1220.5,0,Active Regulars
+C02743,25,24,9060.12,2,Champions
+C02744,53,4,2446.1000000000004,3,At-Risk (Fading Regulars)
+C02745,172,1,270.49,1,Lapsed / Low-Value
+C02746,8,4,1226.33,0,Active Regulars
+C02747,103,4,1326.41,3,At-Risk (Fading Regulars)
+C02749,11,22,6864.78,2,Champions
+C02750,13,23,8387.83,2,Champions
+C02751,37,6,3341.58,3,At-Risk (Fading Regulars)
+C02752,4,36,12044.66,2,Champions
+C02753,40,4,1061.27,3,At-Risk (Fading Regulars)
+C02755,46,6,2203.67,3,At-Risk (Fading Regulars)
+C02756,3,68,24837.91,2,Champions
+C02757,38,5,1548.43,3,At-Risk (Fading Regulars)
+C02758,4,14,4542.14,2,Champions
+C02759,2,8,2684.7799999999997,0,Active Regulars
+C02760,12,22,7236.04,2,Champions
+C02761,316,1,574.78,1,Lapsed / Low-Value
+C02762,146,27,6176.75,3,At-Risk (Fading Regulars)
+C02763,3,64,19872.24,2,Champions
+C02764,1,31,12943.35,2,Champions
+C02765,7,16,5195.52,2,Champions
+C02766,3,16,5318.17,2,Champions
+C02767,6,3,1069.95,0,Active Regulars
+C02768,18,27,12331.15,2,Champions
+C02769,216,2,514.02,1,Lapsed / Low-Value
+C02770,27,3,1607.94,3,At-Risk (Fading Regulars)
+C02772,216,3,1407.57,3,At-Risk (Fading Regulars)
+C02773,2,31,8184.55,2,Champions
+C02774,6,28,8734.06,2,Champions
+C02775,6,24,9124.48,2,Champions
+C02776,102,3,1295.19,3,At-Risk (Fading Regulars)
+C02777,11,50,16676.93,2,Champions
+C02780,287,5,2290.7000000000003,3,At-Risk (Fading Regulars)
+C02781,36,3,937.69,3,At-Risk (Fading Regulars)
+C02782,248,1,456.02,1,Lapsed / Low-Value
+C02783,80,4,1420.52,3,At-Risk (Fading Regulars)
+C02784,41,7,1555.58,3,At-Risk (Fading Regulars)
+C02785,11,20,9027.64,2,Champions
+C02786,53,2,330.0,1,Lapsed / Low-Value
+C02787,19,12,5743.68,0,Active Regulars
+C02788,203,2,424.8,1,Lapsed / Low-Value
+C02789,2,16,7901.27,2,Champions
+C02790,356,1,250.99,1,Lapsed / Low-Value
+C02791,59,12,2391.46,3,At-Risk (Fading Regulars)
+C02792,224,3,882.46,1,Lapsed / Low-Value
+C02793,112,40,13588.9,2,Champions
+C02794,8,56,19663.36,2,Champions
+C02795,70,1,68.99,1,Lapsed / Low-Value
+C02796,15,8,3943.94,0,Active Regulars
+C02797,274,1,136.52,1,Lapsed / Low-Value
+C02798,10,9,2466.21,0,Active Regulars
+C02799,257,4,1715.89,3,At-Risk (Fading Regulars)
+C02800,60,9,3322.56,3,At-Risk (Fading Regulars)
+C02801,10,20,8353.64,2,Champions
+C02802,1,17,4827.46,2,Champions
+C02803,145,2,1184.35,1,Lapsed / Low-Value
+C02804,1,19,4677.52,2,Champions
+C02805,1,66,20386.82,2,Champions
+C02806,49,3,395.27000000000004,1,Lapsed / Low-Value
+C02807,60,5,1565.47,3,At-Risk (Fading Regulars)
+C02809,35,6,2335.1,3,At-Risk (Fading Regulars)
+C02810,36,10,3531.76,0,Active Regulars
+C02812,2,24,6970.85,2,Champions
+C02813,12,13,3420.04,0,Active Regulars
+C02814,4,18,5201.97,2,Champions
+C02815,4,15,5812.31,2,Champions
+C02816,39,10,3074.53,0,Active Regulars
+C02817,32,6,2507.5699999999997,0,Active Regulars
+C02818,20,12,3342.24,0,Active Regulars
+C02819,167,3,2292.7599999999998,3,At-Risk (Fading Regulars)
+C02820,164,2,632.69,1,Lapsed / Low-Value
+C02821,346,1,613.41,1,Lapsed / Low-Value
+C02822,1,46,13930.89,2,Champions
+C02823,36,8,2297.83,0,Active Regulars
+C02824,46,5,1304.67,3,At-Risk (Fading Regulars)
+C02825,17,22,8166.679999999999,2,Champions
+C02826,3,9,1976.48,0,Active Regulars
+C02827,82,6,1427.31,3,At-Risk (Fading Regulars)
+C02828,263,5,1172.4,3,At-Risk (Fading Regulars)
+C02829,21,27,9859.92,2,Champions
+C02830,2,19,4015.11,2,Champions
+C02831,59,12,4628.08,3,At-Risk (Fading Regulars)
+C02832,55,5,870.67,3,At-Risk (Fading Regulars)
+C02834,12,13,4997.3099999999995,0,Active Regulars
+C02835,45,1,772.38,1,Lapsed / Low-Value
+C02836,29,4,1235.6200000000001,3,At-Risk (Fading Regulars)
+C02837,201,1,118.87,1,Lapsed / Low-Value
+C02838,90,9,5063.42,3,At-Risk (Fading Regulars)
+C02839,15,23,9722.89,2,Champions
+C02840,1,16,3590.83,2,Champions
+C02841,290,9,2185.3199999999997,3,At-Risk (Fading Regulars)
+C02843,24,25,8212.33,2,Champions
+C02844,7,15,5926.69,2,Champions
+C02845,123,8,3265.01,3,At-Risk (Fading Regulars)
+C02846,12,10,3138.72,0,Active Regulars
+C02847,5,14,4020.02,0,Active Regulars
+C02848,4,20,6099.0,2,Champions
+C02849,1,11,3792.5,0,Active Regulars
+C02850,12,31,11179.57,2,Champions
+C02851,213,2,355.46,1,Lapsed / Low-Value
+C02852,316,1,564.53,1,Lapsed / Low-Value
+C02853,28,25,13489.029999999999,2,Champions
+C02854,48,2,193.66000000000003,1,Lapsed / Low-Value
+C02855,134,1,517.39,1,Lapsed / Low-Value
+C02856,32,9,1189.52,0,Active Regulars
+C02857,4,5,1908.3200000000002,0,Active Regulars
+C02858,3,34,12272.050000000001,2,Champions
+C02859,28,12,3316.3599999999997,0,Active Regulars
+C02860,162,2,415.04999999999995,1,Lapsed / Low-Value
+C02861,281,3,586.75,1,Lapsed / Low-Value
+C02862,10,11,2288.27,0,Active Regulars
+C02863,48,15,4268.48,0,Active Regulars
+C02864,117,2,201.11,1,Lapsed / Low-Value
+C02865,15,52,20212.31,2,Champions
+C02867,347,1,145.66,1,Lapsed / Low-Value
+C02869,9,26,11883.19,2,Champions
+C02870,25,7,1716.03,0,Active Regulars
+C02871,4,14,3897.56,0,Active Regulars
+C02872,122,3,649.9,1,Lapsed / Low-Value
+C02873,121,23,9074.95,3,At-Risk (Fading Regulars)
+C02874,90,3,917.5,1,Lapsed / Low-Value
+C02875,89,53,19648.53,2,Champions
+C02876,63,4,1059.23,3,At-Risk (Fading Regulars)
+C02877,11,13,3606.52,0,Active Regulars
+C02878,29,17,8537.18,2,Champions
+C02879,111,18,4959.87,3,At-Risk (Fading Regulars)
+C02880,219,4,1001.87,3,At-Risk (Fading Regulars)
+C02882,44,8,1965.22,3,At-Risk (Fading Regulars)
+C02883,122,6,1859.46,3,At-Risk (Fading Regulars)
+C02885,137,10,3119.6400000000003,3,At-Risk (Fading Regulars)
+C02886,247,1,151.66,1,Lapsed / Low-Value
+C02887,36,14,4845.47,0,Active Regulars
+C02888,106,11,3280.91,3,At-Risk (Fading Regulars)
+C02889,247,9,4898.6,3,At-Risk (Fading Regulars)
+C02890,20,9,4279.93,0,Active Regulars
+C02891,23,2,736.6,1,Lapsed / Low-Value
+C02892,3,31,10172.89,2,Champions
+C02893,243,6,1453.58,3,At-Risk (Fading Regulars)
+C02894,19,20,8266.699999999999,2,Champions
+C02895,152,13,3594.82,3,At-Risk (Fading Regulars)
+C02896,7,2,1133.13,0,Active Regulars
+C02897,112,4,1021.73,3,At-Risk (Fading Regulars)
+C02900,54,2,413.51,1,Lapsed / Low-Value
+C02901,9,23,7523.41,2,Champions
+C02903,29,3,1249.4,3,At-Risk (Fading Regulars)
+C02904,349,1,253.83,1,Lapsed / Low-Value
+C02905,145,2,740.4,1,Lapsed / Low-Value
+C02906,277,1,821.89,1,Lapsed / Low-Value
+C02907,22,5,1636.34,0,Active Regulars
+C02908,285,1,693.96,1,Lapsed / Low-Value
+C02909,20,20,8155.68,2,Champions
+C02910,27,6,3388.38,0,Active Regulars
+C02911,37,7,1871.75,3,At-Risk (Fading Regulars)
+C02912,3,15,7272.5599999999995,2,Champions
+C02913,161,2,1107.1599999999999,1,Lapsed / Low-Value
+C02914,55,2,993.2199999999999,1,Lapsed / Low-Value
+C02915,309,2,525.6800000000001,1,Lapsed / Low-Value
+C02916,8,38,12862.85,2,Champions
+C02917,130,8,1456.48,3,At-Risk (Fading Regulars)
+C02918,49,10,4672.13,3,At-Risk (Fading Regulars)
+C02919,75,1,686.57,1,Lapsed / Low-Value
+C02921,22,20,7538.91,2,Champions
+C02922,229,1,283.9,1,Lapsed / Low-Value
+C02923,12,44,14655.119999999999,2,Champions
+C02924,5,19,7318.81,2,Champions
+C02925,22,4,1325.42,0,Active Regulars
+C02926,104,3,1178.13,3,At-Risk (Fading Regulars)
+C02927,109,5,1723.8000000000002,3,At-Risk (Fading Regulars)
+C02928,342,1,208.34,1,Lapsed / Low-Value
+C02930,120,10,3096.2,3,At-Risk (Fading Regulars)
+C02931,19,10,3782.22,0,Active Regulars
+C02932,11,28,10014.18,2,Champions
+C02933,21,18,6007.85,2,Champions
+C02934,61,2,1397.6,3,At-Risk (Fading Regulars)
+C02935,1,17,2916.4,2,Champions
+C02936,57,10,2998.34,3,At-Risk (Fading Regulars)
+C02937,2,45,15239.92,2,Champions
+C02938,37,5,3749.8100000000004,3,At-Risk (Fading Regulars)
+C02940,4,31,7475.61,2,Champions
+C02941,72,4,663.12,1,Lapsed / Low-Value
+C02942,61,3,1091.16,3,At-Risk (Fading Regulars)
+C02943,99,2,230.32999999999998,1,Lapsed / Low-Value
+C02944,123,3,1311.4,3,At-Risk (Fading Regulars)
+C02946,258,4,620.23,1,Lapsed / Low-Value
+C02947,5,8,2539.21,0,Active Regulars
+C02948,257,2,422.90999999999997,1,Lapsed / Low-Value
+C02949,20,8,1874.63,0,Active Regulars
+C02950,252,29,10326.19,3,At-Risk (Fading Regulars)
+C02951,16,13,4522.47,0,Active Regulars
+C02952,4,4,989.82,0,Active Regulars
+C02953,15,9,1779.77,0,Active Regulars
+C02954,158,7,2589.16,3,At-Risk (Fading Regulars)
+C02955,319,1,275.86,1,Lapsed / Low-Value
+C02956,151,7,1534.7,3,At-Risk (Fading Regulars)
+C02957,6,22,11864.07,2,Champions
+C02958,25,6,1621.9899999999998,0,Active Regulars
+C02959,12,12,3099.09,0,Active Regulars
+C02960,2,4,1435.09,0,Active Regulars
+C02961,103,4,1218.19,3,At-Risk (Fading Regulars)
+C02962,22,16,3315.38,0,Active Regulars
+C02963,46,5,1152.33,3,At-Risk (Fading Regulars)
+C02964,301,2,191.37,1,Lapsed / Low-Value
+C02965,53,5,1475.2,3,At-Risk (Fading Regulars)
+C02966,32,15,3657.3,0,Active Regulars
+C02967,25,7,1993.49,0,Active Regulars
+C02968,14,28,8520.65,2,Champions
+C02970,23,2,416.49,1,Lapsed / Low-Value
+C02971,2,5,1780.6200000000001,0,Active Regulars
+C02972,205,14,4041.16,3,At-Risk (Fading Regulars)
+C02973,8,2,577.92,0,Active Regulars
+C02975,86,9,2583.06,3,At-Risk (Fading Regulars)
+C02977,124,19,5038.86,3,At-Risk (Fading Regulars)
+C02978,284,6,2240.73,3,At-Risk (Fading Regulars)
+C02979,77,3,1176.51,3,At-Risk (Fading Regulars)
+C02980,322,1,360.73,1,Lapsed / Low-Value
+C02981,4,13,4361.6,0,Active Regulars
+C02982,14,13,4614.88,0,Active Regulars
+C02983,218,6,1470.71,3,At-Risk (Fading Regulars)
+C02984,4,2,550.6,0,Active Regulars
+C02985,279,1,147.83,1,Lapsed / Low-Value
+C02986,225,11,2463.81,3,At-Risk (Fading Regulars)
+C02987,19,18,6379.88,2,Champions
+C02988,6,37,10808.49,2,Champions
+C02989,97,20,7219.04,3,At-Risk (Fading Regulars)
+C02990,60,30,9512.039999999999,2,Champions
+C02991,126,2,590.33,1,Lapsed / Low-Value
+C02992,89,6,1688.18,3,At-Risk (Fading Regulars)
+C02993,13,10,4218.32,0,Active Regulars
+C02994,10,1,301.01,1,Lapsed / Low-Value
+C02997,18,11,3512.37,0,Active Regulars
+C02998,281,1,131.11,1,Lapsed / Low-Value
+C02999,279,2,728.73,1,Lapsed / Low-Value
+C03000,51,3,1386.3000000000002,3,At-Risk (Fading Regulars)
